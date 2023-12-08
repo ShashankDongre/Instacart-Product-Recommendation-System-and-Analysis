@@ -1,0 +1,2837 @@
+[
+  {
+    "id": "218c57b5-44a0-4703-a055-66e9c2176b37",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "cookies cakes",
+    "outV": "Chocolate Sandwich Cookies"
+  },
+  {
+    "id": "1bdabc3e-05ab-4453-8f3d-d30ac806572e",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cookies cakes",
+    "outV": "snacks"
+  },
+  {
+    "id": "c93bd7ea-2840-473e-9f2c-73210ebf90f2",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Sandwich Cookies",
+    "outV": "snacks"
+  },
+  {
+    "id": "c146693c-b24d-42c2-ae61-db7534a968ef",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "ice cream toppings",
+    "outV": "snacks"
+  },
+  {
+    "id": "b3007ee4-de75-42c2-86fe-a0683e94526f",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Mint Chocolate Flavored Syrup",
+    "outV": "snacks"
+  },
+  {
+    "id": "701b6c41-819a-4ccf-ae9d-b56054402a52",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy granola bars",
+    "outV": "snacks"
+  },
+  {
+    "id": "355445fc-644f-43e7-a8dd-3d23a7c3fc2e",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Salted Caramel Lean Protein & Fiber Bar",
+    "outV": "snacks"
+  },
+  {
+    "id": "4c75d18a-c641-4b32-8888-603a4d0e8c9b",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "chips pretzels",
+    "outV": "snacks"
+  },
+  {
+    "id": "5ea46c9d-0396-4c70-afde-407d6cdd1d39",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Nacho Cheese White Bean Chips",
+    "outV": "snacks"
+  },
+  {
+    "id": "81b4d8c2-bebe-4bfe-bce0-53efb02f62e1",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "crackers",
+    "outV": "snacks"
+  },
+  {
+    "id": "66b14f2d-7d75-4069-80fe-6cc34d20c805",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Sourdough Einkorn Crackers Rosemary",
+    "outV": "snacks"
+  },
+  {
+    "id": "9d484c42-cc34-427d-ab60-325e88ba0855",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cookies cakes",
+    "outV": "snacks"
+  },
+  {
+    "id": "0d0cbd79-f39c-49a2-b97f-b2a6d8636c93",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Sandwich Cookies",
+    "outV": "snacks"
+  },
+  {
+    "id": "be9315cf-0612-4aa2-99b9-27503bd2595c",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "ice cream toppings",
+    "outV": "snacks"
+  },
+  {
+    "id": "c4d9c953-8f4e-445b-83f6-cdb4d708e963",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Mint Chocolate Flavored Syrup",
+    "outV": "snacks"
+  },
+  {
+    "id": "516f352f-09ee-45ea-ad3b-3c9096eb4286",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy granola bars",
+    "outV": "snacks"
+  },
+  {
+    "id": "605d983d-f697-496d-90c3-d8ff64f6ac86",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Salted Caramel Lean Protein & Fiber Bar",
+    "outV": "snacks"
+  },
+  {
+    "id": "9c5a596c-0df5-48fa-b6cb-7d9ecd66c88d",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "chips pretzels",
+    "outV": "snacks"
+  },
+  {
+    "id": "842e9935-3db1-477b-8c75-3e6337c92f7d",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Nacho Cheese White Bean Chips",
+    "outV": "snacks"
+  },
+  {
+    "id": "91cba12f-9411-4576-8a5f-ee88a1c8947d",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "crackers",
+    "outV": "snacks"
+  },
+  {
+    "id": "a786156a-1ebc-4676-a807-7df1cc376601",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Sourdough Einkorn Crackers Rosemary",
+    "outV": "snacks"
+  },
+  {
+    "id": "8107aee7-f9fd-41bf-9d98-5dc4293330f3",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cookies cakes",
+    "outV": "snacks"
+  },
+  {
+    "id": "ee6e9a6e-879a-4d9e-89e1-3b70ed831b91",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Sandwich Cookies",
+    "outV": "snacks"
+  },
+  {
+    "id": "de17ced8-a573-4dcc-b37e-b024091b5dce",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "ice cream toppings",
+    "outV": "snacks"
+  },
+  {
+    "id": "3edb55f8-c75a-4eae-9f76-3920de52b058",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Mint Chocolate Flavored Syrup",
+    "outV": "snacks"
+  },
+  {
+    "id": "395cf64c-f5dc-4e7b-8e7b-a13d10b98f1c",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy granola bars",
+    "outV": "snacks"
+  },
+  {
+    "id": "fc8fd7e3-bba3-49f2-8aee-39334d203853",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Salted Caramel Lean Protein & Fiber Bar",
+    "outV": "snacks"
+  },
+  {
+    "id": "d5d4f596-f8f9-4beb-9622-a01376940bd8",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "chips pretzels",
+    "outV": "snacks"
+  },
+  {
+    "id": "fad30629-697d-478d-acc9-74f148747021",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Nacho Cheese White Bean Chips",
+    "outV": "snacks"
+  },
+  {
+    "id": "78b4fa35-8b79-4b44-8661-8b25d4bfd114",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "crackers",
+    "outV": "snacks"
+  },
+  {
+    "id": "bd724a7c-f0eb-4974-b588-c857d13db105",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Sourdough Einkorn Crackers Rosemary",
+    "outV": "snacks"
+  },
+  {
+    "id": "3c26af29-f67f-4ce2-be02-e72be5a33fb4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cookies cakes",
+    "outV": "snacks"
+  },
+  {
+    "id": "8a2029b4-7681-4e63-b10e-281f7ecdf23c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Sandwich Cookies",
+    "outV": "snacks"
+  },
+  {
+    "id": "7cd51cb9-a35a-4ca3-a4c8-9620c91a5ef3",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "ice cream toppings",
+    "outV": "snacks"
+  },
+  {
+    "id": "5e0d299a-2088-4a79-bd5b-aa0249e5585f",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Mint Chocolate Flavored Syrup",
+    "outV": "snacks"
+  },
+  {
+    "id": "b227be3c-8b74-4d13-b2be-bb3ecad467ca",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy granola bars",
+    "outV": "snacks"
+  },
+  {
+    "id": "64854268-15ca-4bfb-be39-70579ec22aed",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Salted Caramel Lean Protein & Fiber Bar",
+    "outV": "snacks"
+  },
+  {
+    "id": "478ab423-8fcf-431e-934c-2841e4e9f544",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "chips pretzels",
+    "outV": "snacks"
+  },
+  {
+    "id": "5f9d723c-6a30-4600-9362-f4ae0aa5eba8",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Nacho Cheese White Bean Chips",
+    "outV": "snacks"
+  },
+  {
+    "id": "1de78dfa-5b5d-4cdd-833f-8cd91a2cbad4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "crackers",
+    "outV": "snacks"
+  },
+  {
+    "id": "c0ebb299-47cb-4a06-8085-90d19e1be4ea",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Sourdough Einkorn Crackers Rosemary",
+    "outV": "snacks"
+  },
+  {
+    "id": "8bd2d1e2-3097-486c-9e37-a7b15ecbe9dc",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cookies cakes",
+    "outV": "snacks"
+  },
+  {
+    "id": "fc734703-b45d-4f34-80be-4722d3b56078",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Sandwich Cookies",
+    "outV": "snacks"
+  },
+  {
+    "id": "228e9c90-9ac5-413c-984d-c64c71a6db5a",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "ice cream toppings",
+    "outV": "snacks"
+  },
+  {
+    "id": "60b09ca8-8215-4077-9d61-11d1b7626fd2",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Mint Chocolate Flavored Syrup",
+    "outV": "snacks"
+  },
+  {
+    "id": "a737e51b-44c2-4c67-85ca-822a48fd5b2f",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy granola bars",
+    "outV": "snacks"
+  },
+  {
+    "id": "2aa6b81a-c568-4059-a833-2ea51497ec02",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Salted Caramel Lean Protein & Fiber Bar",
+    "outV": "snacks"
+  },
+  {
+    "id": "3660261b-2b86-46a3-85df-844b06a15be7",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "chips pretzels",
+    "outV": "snacks"
+  },
+  {
+    "id": "907030da-3c53-4d96-8c1b-f4f05e55928f",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Nacho Cheese White Bean Chips",
+    "outV": "snacks"
+  },
+  {
+    "id": "4429a979-6335-41e5-9f16-0a0b5ec75ebf",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "crackers",
+    "outV": "snacks"
+  },
+  {
+    "id": "bd95aaad-a102-4990-89a0-7486eecd5f8a",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Sourdough Einkorn Crackers Rosemary",
+    "outV": "snacks"
+  },
+  {
+    "id": "695ea556-6ecc-4a96-a8c9-26f07a385126",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "spices seasonings",
+    "outV": "All-Seasons Salt"
+  },
+  {
+    "id": "1c0b7e46-aca6-4fdc-8400-186451b54940",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "spices seasonings",
+    "outV": "pantry"
+  },
+  {
+    "id": "1dc01cf5-83d6-446a-ab4b-ba01c6e6a27b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "All-Seasons Salt",
+    "outV": "pantry"
+  },
+  {
+    "id": "f45f5761-e382-49e4-8190-3ae9bfe69c73",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "marinades meat preparation",
+    "outV": "pantry"
+  },
+  {
+    "id": "97b8fbce-7c96-4f54-85ae-2e172537ea56",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Green Chile Anytime Sauce",
+    "outV": "pantry"
+  },
+  {
+    "id": "5e54d69b-3dab-4dcc-86b6-6609ce80fcc4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "doughs gelatins bake mixes",
+    "outV": "pantry"
+  },
+  {
+    "id": "464924e2-4bd3-45b2-921d-7209891022c6",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pumpkin Muffin Mix",
+    "outV": "pantry"
+  },
+  {
+    "id": "810325b7-fe4c-4e19-a609-d554fe8ac622",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "spices seasonings",
+    "outV": "pantry"
+  },
+  {
+    "id": "873aa7b3-4943-4557-b6de-2495c6d1f38c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "All-Seasons Salt",
+    "outV": "pantry"
+  },
+  {
+    "id": "bfed764c-2c69-4c72-beff-999584616fae",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "marinades meat preparation",
+    "outV": "pantry"
+  },
+  {
+    "id": "65e5ed94-3684-4e20-9a63-c2fd9f508463",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Green Chile Anytime Sauce",
+    "outV": "pantry"
+  },
+  {
+    "id": "25e6b1d9-98d5-4a10-807d-c8d4ca0d53df",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "doughs gelatins bake mixes",
+    "outV": "pantry"
+  },
+  {
+    "id": "b702202e-c075-4de4-8b9b-dd9c0bb3fb0d",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pumpkin Muffin Mix",
+    "outV": "pantry"
+  },
+  {
+    "id": "860c624b-940d-4c29-a057-af3d2f9567f2",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "spices seasonings",
+    "outV": "pantry"
+  },
+  {
+    "id": "57ba5ae3-8a0c-4314-897f-84457220929e",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "All-Seasons Salt",
+    "outV": "pantry"
+  },
+  {
+    "id": "dd3e2651-a66c-4a0b-821d-e58ce791e710",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "marinades meat preparation",
+    "outV": "pantry"
+  },
+  {
+    "id": "61189765-c799-48d9-a252-217dbf1184ef",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Green Chile Anytime Sauce",
+    "outV": "pantry"
+  },
+  {
+    "id": "abcc81de-e6c8-4b30-b2b8-7e4707fae507",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "doughs gelatins bake mixes",
+    "outV": "pantry"
+  },
+  {
+    "id": "6b345ac0-a754-42b7-855a-d4fd52a80c18",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pumpkin Muffin Mix",
+    "outV": "pantry"
+  },
+  {
+    "id": "26ebfee3-ed98-4284-a763-83d2acf7ef91",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "tea",
+    "outV": "household"
+  },
+  {
+    "id": "3fdd4c59-a2e3-4fcb-817b-9c0ef63153f5",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Robust Golden Unsweetened Oolong Tea",
+    "outV": "household"
+  },
+  {
+    "id": "cbb7f82c-c8c1-4bb9-a110-f962cec60ff0",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "dish detergents",
+    "outV": "household"
+  },
+  {
+    "id": "e913b718-fa51-471f-8c6e-ffe397107e1e",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Scent Dishwasher Cleaner",
+    "outV": "household"
+  },
+  {
+    "id": "eb2163ac-7f9c-4c5f-9a36-3ed692e839b0",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "more household",
+    "outV": "household"
+  },
+  {
+    "id": "8e9624b3-6165-428b-a236-ad9f74ea2722",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "School Glue, Washable, No Run",
+    "outV": "household"
+  },
+  {
+    "id": "cc706e85-3b32-4d3e-ae49-97c2289847e2",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "tea",
+    "outV": "household"
+  },
+  {
+    "id": "4aad2c57-a055-4a38-8cbe-203a349e293f",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Robust Golden Unsweetened Oolong Tea",
+    "outV": "household"
+  },
+  {
+    "id": "e34e2e8f-d1c5-4f00-a8bf-8f4a8b53b314",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "dish detergents",
+    "outV": "household"
+  },
+  {
+    "id": "d26f1f20-f23a-4684-a51e-dc43af6f8d42",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Scent Dishwasher Cleaner",
+    "outV": "household"
+  },
+  {
+    "id": "f34b2ac9-e6e8-4d55-ac55-6cdd9929fe58",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "more household",
+    "outV": "household"
+  },
+  {
+    "id": "8f7c23af-f540-48c8-bdf2-942e2d8f813a",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "School Glue, Washable, No Run",
+    "outV": "household"
+  },
+  {
+    "id": "21061dbc-f2f6-4246-89c9-7c34435ae666",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "tea",
+    "outV": "household"
+  },
+  {
+    "id": "d810a821-859f-4493-92d0-1216de2189f8",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Robust Golden Unsweetened Oolong Tea",
+    "outV": "household"
+  },
+  {
+    "id": "5fb49f04-bbe2-4270-af5d-424dcc61016d",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "dish detergents",
+    "outV": "household"
+  },
+  {
+    "id": "43e2c017-fb41-4f2d-a16d-f41ec598a450",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Scent Dishwasher Cleaner",
+    "outV": "household"
+  },
+  {
+    "id": "2beae209-569d-44f4-a1bc-6260a6a5887c",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "more household",
+    "outV": "household"
+  },
+  {
+    "id": "bb3ba36f-0866-4d10-95a6-ae80c60f807f",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "School Glue, Washable, No Run",
+    "outV": "household"
+  },
+  {
+    "id": "fad36bbb-5d6b-4b63-8a7b-60c4992ab27c",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "frozen meals",
+    "outV": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce"
+  },
+  {
+    "id": "ce998804-cf5b-4f3b-896a-6948ba25ed66",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen meals",
+    "outV": "frozen"
+  },
+  {
+    "id": "e7268768-2f77-4e29-9aaf-524553a143f8",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce",
+    "outV": "frozen"
+  },
+  {
+    "id": "d75ea396-c071-400d-90a7-15104f9c1ae6",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "ab98bbaa-4df2-488f-8469-d697e0e9c8df",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "84395345-f096-46dc-af19-c1e156b98df4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen dessert",
+    "outV": "frozen"
+  },
+  {
+    "id": "28804352-3885-4c42-ab25-38d4225d361c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Fudge Layer Cake",
+    "outV": "frozen"
+  },
+  {
+    "id": "64cd489e-c7e2-4388-a75e-5cbba49b9652",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "8bec6e68-c04e-4f98-8a41-4d9a23b9a708",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pizza for One Suprema  Frozen Pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "663130c2-268c-414f-b188-c2ecff84fb13",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "88c30d24-f8d6-4f7a-86f6-272e8e4cda35",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "d9072db5-bb0a-4b6c-9fa6-59f783ec69b4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen breads doughs",
+    "outV": "frozen"
+  },
+  {
+    "id": "0b0e0046-6a0e-4e4c-8d63-04094c7057e3",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Raisin Cinnamon Bagels 5 count",
+    "outV": "frozen"
+  },
+  {
+    "id": "c854aecc-414a-490b-a41a-a62256574ff6",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen meals",
+    "outV": "frozen"
+  },
+  {
+    "id": "396840e0-1a79-4c7d-8aca-66bed210ffe6",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce",
+    "outV": "frozen"
+  },
+  {
+    "id": "b1fba39f-333e-406f-906c-01f38d420af4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "a2136c49-0c5e-4fa5-a30b-62af7c155bc8",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "a0ef741c-95c2-497e-bb37-ddcc46b73be9",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen dessert",
+    "outV": "frozen"
+  },
+  {
+    "id": "a1e025ac-573a-4c2a-a11e-492b0c09ef12",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Fudge Layer Cake",
+    "outV": "frozen"
+  },
+  {
+    "id": "ef509b38-09c7-4fc1-91ee-dff23713a81b",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "9ad734e0-06f6-4451-b133-f154ecb1c3b8",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pizza for One Suprema  Frozen Pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "83da34bd-0d66-4894-9c2a-73cf561d13f6",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "f7679365-2845-4003-9cff-b1b7acf44811",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "a6832c61-0514-4111-9da2-e7f9c51a5d54",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen breads doughs",
+    "outV": "frozen"
+  },
+  {
+    "id": "ffdc4745-869e-4d4f-9286-8fcddd59a9ce",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Raisin Cinnamon Bagels 5 count",
+    "outV": "frozen"
+  },
+  {
+    "id": "cb3b1227-4dd7-4686-af8d-61cfa82e5cbe",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen meals",
+    "outV": "frozen"
+  },
+  {
+    "id": "389537da-f974-44e0-9f48-0ea145533b22",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce",
+    "outV": "frozen"
+  },
+  {
+    "id": "63f9a563-06f1-4090-b096-0672e70cb294",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "08a4d342-d8c2-418c-abde-196e110bdf78",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "c3f2beb1-7118-46b9-9bcd-6dd72183b833",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen dessert",
+    "outV": "frozen"
+  },
+  {
+    "id": "0392b7e5-1267-49e5-8363-dcf52231696b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Fudge Layer Cake",
+    "outV": "frozen"
+  },
+  {
+    "id": "2a5277b5-a6c0-4241-849c-320f6e32d177",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "f2970c7f-88a5-4788-ae1b-8acd043048fd",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pizza for One Suprema  Frozen Pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "0335cc27-6ed3-4a95-855c-8e9babce1ebd",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "21a52d1f-68eb-4b4e-9f38-c427bef8cded",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "bc7d1b2d-84ac-47b6-a127-d34681d607d7",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen breads doughs",
+    "outV": "frozen"
+  },
+  {
+    "id": "6d18ebea-be61-4fd2-900b-555ad73e8f00",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Raisin Cinnamon Bagels 5 count",
+    "outV": "frozen"
+  },
+  {
+    "id": "5da72bbf-7612-4d53-86c6-252a4c163ff9",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen meals",
+    "outV": "frozen"
+  },
+  {
+    "id": "fff08d0f-e919-4704-b456-35f6a59812a3",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce",
+    "outV": "frozen"
+  },
+  {
+    "id": "729398e1-02a6-4c2a-bbb8-8b1646aa4e80",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "47800811-a4a0-440c-a0be-c394f7cef538",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "d02e656c-9ca2-493e-bbc0-c937c9c6943e",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen dessert",
+    "outV": "frozen"
+  },
+  {
+    "id": "9193761c-085e-44e4-bf0a-eaab221316e5",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Fudge Layer Cake",
+    "outV": "frozen"
+  },
+  {
+    "id": "6bb08e55-66f7-450c-9cb6-a5b307211964",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "19e004ae-9c3e-4659-9773-1bcf06eb4405",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pizza for One Suprema  Frozen Pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "3d957642-dc91-46cf-8eca-297dba0c0fad",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "de529292-0cc3-4989-9f2d-58cc5b28b37b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "5e00818e-f494-4b00-b689-cb2bd190c083",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen breads doughs",
+    "outV": "frozen"
+  },
+  {
+    "id": "24b7520c-abea-4624-a625-644c204eea8b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Raisin Cinnamon Bagels 5 count",
+    "outV": "frozen"
+  },
+  {
+    "id": "71bd7bda-d8de-4df3-8ad6-e36540f4a990",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen meals",
+    "outV": "frozen"
+  },
+  {
+    "id": "493970b7-50b3-4ec9-9d71-79bcd2648646",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce",
+    "outV": "frozen"
+  },
+  {
+    "id": "349bc787-1f30-4697-a01e-22a22f2e1a01",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "327ba1ed-e9fe-4f65-8a90-60102916276c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "70936a3b-8ea2-4c54-ac47-31b6e12f20b5",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen dessert",
+    "outV": "frozen"
+  },
+  {
+    "id": "a70a18c0-f06d-4553-8cdb-6da7b2bc4b5d",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Chocolate Fudge Layer Cake",
+    "outV": "frozen"
+  },
+  {
+    "id": "b6b8dc64-a5ed-450b-9654-b7665cf02a39",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "7d5dcb5b-8529-451f-a26f-b78c8ebb904a",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pizza for One Suprema  Frozen Pizza",
+    "outV": "frozen"
+  },
+  {
+    "id": "b1f732c2-9a3f-4975-80ac-f7522a623393",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen produce",
+    "outV": "frozen"
+  },
+  {
+    "id": "466b1af3-e937-4e9c-b7f7-93b24ed1b9e6",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Cut Russet Potatoes Steam N Mash",
+    "outV": "frozen"
+  },
+  {
+    "id": "1e185b75-4bad-43cf-b0b3-28649ba409a4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "frozen breads doughs",
+    "outV": "frozen"
+  },
+  {
+    "id": "811595df-7ec8-4a30-871f-842bf7165cf8",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Raisin Cinnamon Bagels 5 count",
+    "outV": "frozen"
+  },
+  {
+    "id": "5ac663b5-e48d-4e76-b3e1-affe2af75fba",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "marinades meat preparation",
+    "outV": "Green Chile Anytime Sauce"
+  },
+  {
+    "id": "5164e467-b0eb-4425-8ba2-2effd45030e9",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "juice nectars",
+    "outV": "Pure Coconut Water With Orange"
+  },
+  {
+    "id": "b440a19c-5e59-42a7-9c34-db812741e6a0",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "juice nectars",
+    "outV": "beverages"
+  },
+  {
+    "id": "c7086784-1527-435f-9998-494c3a0dcfa1",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pure Coconut Water With Orange",
+    "outV": "beverages"
+  },
+  {
+    "id": "3c17ac3a-441b-458d-bcd9-e264709d29b0",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "water seltzer sparkling water",
+    "outV": "beverages"
+  },
+  {
+    "id": "45536d46-9ce3-4aa7-8561-1f995be0f4a7",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Sparkling Orange Juice & Prickly Pear Beverage",
+    "outV": "beverages"
+  },
+  {
+    "id": "6a9e1479-36c6-4032-841e-c290b8134b29",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "refrigerated",
+    "outV": "beverages"
+  },
+  {
+    "id": "8d769226-8536-452d-9814-a8713d2c4c37",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Peach Mango Juice",
+    "outV": "beverages"
+  },
+  {
+    "id": "0d90c114-d8d2-4ea7-afb3-3751ce5ce2b7",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy sports drinks",
+    "outV": "beverages"
+  },
+  {
+    "id": "1e0d1943-7c7c-448f-825b-8d0b80015f3d",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Daily Tangerine Citrus Flavored Beverage",
+    "outV": "beverages"
+  },
+  {
+    "id": "31d7733f-94ed-4978-bf7c-81f5a69be970",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "juice nectars",
+    "outV": "beverages"
+  },
+  {
+    "id": "47b0207e-ebd0-437c-a6f4-352f5054b013",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pure Coconut Water With Orange",
+    "outV": "beverages"
+  },
+  {
+    "id": "0840a1e3-919a-4448-9fac-bfc6283decb2",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "water seltzer sparkling water",
+    "outV": "beverages"
+  },
+  {
+    "id": "1401d3c6-eda0-4f23-bd93-60e199ed4456",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Sparkling Orange Juice & Prickly Pear Beverage",
+    "outV": "beverages"
+  },
+  {
+    "id": "078683ce-9733-475f-a7a2-e3e24fc16373",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "refrigerated",
+    "outV": "beverages"
+  },
+  {
+    "id": "809432c7-1f37-4272-92bb-33db2103ca77",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Peach Mango Juice",
+    "outV": "beverages"
+  },
+  {
+    "id": "c564fe38-5fd9-4ccd-8db1-debe10ef3f7b",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy sports drinks",
+    "outV": "beverages"
+  },
+  {
+    "id": "86de59c4-a1ae-4f01-9246-370f2abb8ec7",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Daily Tangerine Citrus Flavored Beverage",
+    "outV": "beverages"
+  },
+  {
+    "id": "93a54538-6cd0-429e-b0a8-0133d7c16444",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "juice nectars",
+    "outV": "beverages"
+  },
+  {
+    "id": "311f1eb9-6b96-4abc-924e-e28cc4321780",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pure Coconut Water With Orange",
+    "outV": "beverages"
+  },
+  {
+    "id": "c64a8a07-e250-4e36-8f1d-839bc68a1f9a",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "water seltzer sparkling water",
+    "outV": "beverages"
+  },
+  {
+    "id": "73dd562e-88a2-4d5c-bb82-a2ac6e9a14dc",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Sparkling Orange Juice & Prickly Pear Beverage",
+    "outV": "beverages"
+  },
+  {
+    "id": "ae10eeb0-513e-4df5-b0eb-01e0efe64201",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "refrigerated",
+    "outV": "beverages"
+  },
+  {
+    "id": "a9bc6971-9bc2-471f-a391-4cc08bb69b9f",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Peach Mango Juice",
+    "outV": "beverages"
+  },
+  {
+    "id": "97bd39ef-a73c-4b76-a032-d15880c8a945",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy sports drinks",
+    "outV": "beverages"
+  },
+  {
+    "id": "2ee5bb28-7a78-4a37-a8b3-87979d8f79f7",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Daily Tangerine Citrus Flavored Beverage",
+    "outV": "beverages"
+  },
+  {
+    "id": "112a71d5-1c34-4bb0-8c61-ccd7629e33b2",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "juice nectars",
+    "outV": "beverages"
+  },
+  {
+    "id": "ff81ba66-965e-4e50-89de-57cce3fbbef0",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Pure Coconut Water With Orange",
+    "outV": "beverages"
+  },
+  {
+    "id": "648978da-aede-4cb0-851d-99961c7e1479",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "water seltzer sparkling water",
+    "outV": "beverages"
+  },
+  {
+    "id": "23b17f42-bd04-47bd-92f9-42952e261b74",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Sparkling Orange Juice & Prickly Pear Beverage",
+    "outV": "beverages"
+  },
+  {
+    "id": "b7d3c1e2-caef-4278-9c41-e749da9083d0",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "refrigerated",
+    "outV": "beverages"
+  },
+  {
+    "id": "14f99433-bd9c-4be6-b567-4f9cfe98d16c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Peach Mango Juice",
+    "outV": "beverages"
+  },
+  {
+    "id": "dc0b783b-5b9d-41b0-b4b6-d7700f5f6803",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "energy sports drinks",
+    "outV": "beverages"
+  },
+  {
+    "id": "3e423d88-b3bc-4b3b-965c-a0c80ba1e807",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Daily Tangerine Citrus Flavored Beverage",
+    "outV": "beverages"
+  },
+  {
+    "id": "3fa8379c-d6ab-4732-950c-6ae89f356d5c",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "frozen produce",
+    "outV": "Cut Russet Potatoes Steam N Mash"
+  },
+  {
+    "id": "11d23bbb-a382-4a60-a63f-89ec49938a55",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "frozen produce",
+    "outV": "Cut Russet Potatoes Steam N Mash"
+  },
+  {
+    "id": "7fdc8a82-5bdf-4352-a1c3-79e36617b1ea",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "yogurt",
+    "outV": "Light Strawberry Blueberry Yogurt"
+  },
+  {
+    "id": "a4b38bef-fe7e-421a-af90-3cbd5402ce4e",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "yogurt",
+    "outV": "dairy eggs"
+  },
+  {
+    "id": "8a9d639f-5cff-4b0d-80a4-de423d47456e",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Light Strawberry Blueberry Yogurt",
+    "outV": "dairy eggs"
+  },
+  {
+    "id": "073f6a1b-dc3b-4fbb-bcf1-707800606fc8",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "water seltzer sparkling water",
+    "outV": "Sparkling Orange Juice & Prickly Pear Beverage"
+  },
+  {
+    "id": "28affb9f-1b57-435b-a229-b2cc1c4a971c",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "refrigerated",
+    "outV": "Peach Mango Juice"
+  },
+  {
+    "id": "ab4b9e33-71fe-48a9-9d04-5b52ef4ded55",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "frozen dessert",
+    "outV": "Chocolate Fudge Layer Cake"
+  },
+  {
+    "id": "7bbf335a-5a4f-4001-bebd-465772fd4275",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "cold flu allergy",
+    "outV": "Saline Nasal Mist"
+  },
+  {
+    "id": "45c9890c-c049-4a4d-a982-327bd6fab948",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "cold flu allergy",
+    "outV": "Saline Nasal Mist"
+  },
+  {
+    "id": "69129430-b280-45f4-a974-dfe120f259ca",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cold flu allergy",
+    "outV": "personal care"
+  },
+  {
+    "id": "6c67503e-98af-45d3-9fec-b00500bf2946",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Saline Nasal Mist",
+    "outV": "personal care"
+  },
+  {
+    "id": "519f2136-7258-4c19-a0a6-02462be2b284",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "oral hygiene",
+    "outV": "personal care"
+  },
+  {
+    "id": "56c77a74-b8c7-45bf-8258-06e4054ee226",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Breath Oral Rinse Mild Mint",
+    "outV": "personal care"
+  },
+  {
+    "id": "5353c15f-ea3d-439b-92b2-40ec54bd0761",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "body lotions soap",
+    "outV": "personal care"
+  },
+  {
+    "id": "70b9fcd6-0796-4327-9917-7e7108461ca5",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Complete Spring Water Foaming Antibacterial Hand Wash",
+    "outV": "personal care"
+  },
+  {
+    "id": "e209d464-1fa3-4003-b95b-40a2b1def884",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cold flu allergy",
+    "outV": "personal care"
+  },
+  {
+    "id": "babad4da-5649-45ca-9042-af970bd0b638",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Saline Nasal Mist",
+    "outV": "personal care"
+  },
+  {
+    "id": "73fde23c-171a-4f21-843d-b5bb2c8bf814",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "vitamins supplements",
+    "outV": "personal care"
+  },
+  {
+    "id": "c8341d12-36b6-4bfb-900f-d6b8da8144af",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Biotin 1000 mcg",
+    "outV": "personal care"
+  },
+  {
+    "id": "5c8a0698-41f1-4898-a364-95e9f6bca382",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cold flu allergy",
+    "outV": "personal care"
+  },
+  {
+    "id": "9c9fb390-7231-47e9-87c5-3ac686ef3e56",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Saline Nasal Mist",
+    "outV": "personal care"
+  },
+  {
+    "id": "3c474c0e-bea3-4afe-accd-fe25f877dbeb",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "oral hygiene",
+    "outV": "personal care"
+  },
+  {
+    "id": "ef63f196-347d-4e33-8edf-0222d6bb573b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Breath Oral Rinse Mild Mint",
+    "outV": "personal care"
+  },
+  {
+    "id": "ebe09b14-bc3c-4d49-8eb5-bd53d5a6404a",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "body lotions soap",
+    "outV": "personal care"
+  },
+  {
+    "id": "fe201d94-1c5e-45e3-beec-0c4446e7ed17",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Complete Spring Water Foaming Antibacterial Hand Wash",
+    "outV": "personal care"
+  },
+  {
+    "id": "97bebba4-3713-49b5-a326-a8bcbd260c5e",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cold flu allergy",
+    "outV": "personal care"
+  },
+  {
+    "id": "324b5b9d-9b5a-4b2b-a542-36031ffed166",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Saline Nasal Mist",
+    "outV": "personal care"
+  },
+  {
+    "id": "02231c1b-86eb-4949-9be7-f228f7b621ae",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "vitamins supplements",
+    "outV": "personal care"
+  },
+  {
+    "id": "c10d65ac-4d1a-4eb0-84ab-51599cf66bc0",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Biotin 1000 mcg",
+    "outV": "personal care"
+  },
+  {
+    "id": "c8c3c963-d504-4927-8c64-be5605fd2098",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cold flu allergy",
+    "outV": "personal care"
+  },
+  {
+    "id": "57ae591e-930c-4cfb-b9e3-a5aa0126093a",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Saline Nasal Mist",
+    "outV": "personal care"
+  },
+  {
+    "id": "35925142-66fc-4546-91f6-5cfefd002a75",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "oral hygiene",
+    "outV": "personal care"
+  },
+  {
+    "id": "b1d65b61-3193-40f3-8338-785cb27fd0f5",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Breath Oral Rinse Mild Mint",
+    "outV": "personal care"
+  },
+  {
+    "id": "40f82787-f505-43d6-b345-2a3bca1db108",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "body lotions soap",
+    "outV": "personal care"
+  },
+  {
+    "id": "b6e67d0f-4796-4cbd-a909-e80112d25d4a",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Complete Spring Water Foaming Antibacterial Hand Wash",
+    "outV": "personal care"
+  },
+  {
+    "id": "f261e47e-6961-4d06-896a-dea6f3691d55",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cold flu allergy",
+    "outV": "personal care"
+  },
+  {
+    "id": "ea2380d9-237d-4063-b2ae-831efb645579",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Saline Nasal Mist",
+    "outV": "personal care"
+  },
+  {
+    "id": "d52fdb18-c189-43ff-814b-208e5bb24f3f",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "vitamins supplements",
+    "outV": "personal care"
+  },
+  {
+    "id": "78f9ffb3-2617-4785-aa4f-3a7cda8a53a1",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Biotin 1000 mcg",
+    "outV": "personal care"
+  },
+  {
+    "id": "68aecb7b-634d-420a-a103-14bf7f7852be",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cold flu allergy",
+    "outV": "personal care"
+  },
+  {
+    "id": "b4736619-dc05-4980-96e0-100bc30d1c34",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Saline Nasal Mist",
+    "outV": "personal care"
+  },
+  {
+    "id": "5d6a647a-41ee-48cf-997b-de8c067e9868",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "oral hygiene",
+    "outV": "personal care"
+  },
+  {
+    "id": "2ba5cc0c-cdbc-456d-a098-1f93c9338667",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Breath Oral Rinse Mild Mint",
+    "outV": "personal care"
+  },
+  {
+    "id": "c459caa1-3012-44d2-8776-704a00db9fe7",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "body lotions soap",
+    "outV": "personal care"
+  },
+  {
+    "id": "70683c83-85ad-4170-8c09-f10e1616e0a6",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Complete Spring Water Foaming Antibacterial Hand Wash",
+    "outV": "personal care"
+  },
+  {
+    "id": "40a334c7-0dd2-4ac9-a57f-82a4471a9190",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cold flu allergy",
+    "outV": "personal care"
+  },
+  {
+    "id": "440477da-1a4d-4bcf-9e5c-6daf8340f2f8",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Saline Nasal Mist",
+    "outV": "personal care"
+  },
+  {
+    "id": "0b5ca65f-36e3-43f4-ad9f-69064b36b597",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "vitamins supplements",
+    "outV": "personal care"
+  },
+  {
+    "id": "e0978158-f9a5-41d4-aada-4beecafedc75",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Biotin 1000 mcg",
+    "outV": "personal care"
+  },
+  {
+    "id": "6804699a-5b69-4c21-b69f-bcf32bf1c68d",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "dish detergents",
+    "outV": "Fresh Scent Dishwasher Cleaner"
+  },
+  {
+    "id": "884b6c64-696d-49ee-a31f-adb835273773",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "diapers wipes",
+    "outV": "Overnight Diapers Size 6"
+  },
+  {
+    "id": "7659cc8b-48c2-4ba2-a922-b1a59d011631",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "diapers wipes",
+    "outV": "babies"
+  },
+  {
+    "id": "36a4313a-f71e-4d67-b014-cf2beb6b2ec8",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Overnight Diapers Size 6",
+    "outV": "babies"
+  },
+  {
+    "id": "a9049e43-50b8-4eb9-8549-611014386179",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "ice cream toppings",
+    "outV": "Mint Chocolate Flavored Syrup"
+  },
+  {
+    "id": "c2ebd80d-2cab-49a6-b3f6-c38b8569a67e",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "poultry counter",
+    "outV": "Rendered Duck Fat"
+  },
+  {
+    "id": "115e58c7-28c7-4c98-8ff0-9f9ba286c782",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "poultry counter",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "7db4b83f-e0b7-46ba-8be6-52d0ce7f2529",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Rendered Duck Fat",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "111206e1-c365-4303-9c43-6b592029e314",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "packaged poultry",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "8c6c0bd2-bcdf-45c1-a81c-2fbb83fc1dcb",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Turkey Burgers",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "ea6c8b9a-716b-4f53-937f-6a4d99059eed",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "hot dogs bacon sausage",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "22dc2439-45d8-4f32-a414-72f5957ad97c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Beef Hot Links Beef Smoked Sausage With Chile Peppers",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "81d0e56b-83c8-47be-bb9d-ecbbc57b04ee",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "poultry counter",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "c0c4c0e2-039e-449b-be06-dd48b8583b55",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Rendered Duck Fat",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "4901caf1-662e-4b63-abd1-fd41ebd79f25",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "packaged poultry",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "5e77f2e8-f844-43d9-a7fc-0e6e7682ec0c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Turkey Burgers",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "ba59e441-8232-48fd-ad91-f9ad4defd0d5",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "hot dogs bacon sausage",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "39864a04-9765-441c-b719-deeb0e7cf54b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Beef Hot Links Beef Smoked Sausage With Chile Peppers",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "ba3da04a-2e76-434c-b9ff-ea6b91aac4b3",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "poultry counter",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "a56c3d3d-62d0-4e0a-add4-86d253adc28b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Rendered Duck Fat",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "1b6eaf28-c960-4fd3-a32b-14a38b71b6e6",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "packaged poultry",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "c6becd6c-9c37-47a5-92fd-d83d55d7184b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Turkey Burgers",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "af437b3f-04f1-4e26-93eb-b7515c525a08",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "hot dogs bacon sausage",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "8d2bd35d-7f07-45fc-9998-feaf45e95b76",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Beef Hot Links Beef Smoked Sausage With Chile Peppers",
+    "outV": "meat seafood"
+  },
+  {
+    "id": "1475cf8e-d4bb-4dc9-ba3e-63dfa52f8e44",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "frozen pizza",
+    "outV": "Pizza for One Suprema  Frozen Pizza"
+  },
+  {
+    "id": "69ec476c-fd2f-4c95-a5cf-e2c50f7e2147",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "grains rice dried goods",
+    "outV": "Gluten Free Quinoa Three Cheese & Mushroom Blend"
+  },
+  {
+    "id": "933c4789-b3db-48f3-a0c2-fdd7b396fea4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "grains rice dried goods",
+    "outV": "dry goods pasta"
+  },
+  {
+    "id": "16ac0f9c-6ce8-48eb-94e5-2bd4ea622698",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Gluten Free Quinoa Three Cheese & Mushroom Blend",
+    "outV": "dry goods pasta"
+  },
+  {
+    "id": "af2e59f9-122e-44be-87b7-438e39c17709",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "dry pasta",
+    "outV": "dry goods pasta"
+  },
+  {
+    "id": "1acf89be-dcf2-4d0a-9af3-a337ffe9b3e0",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Spaghetti Style Pasta",
+    "outV": "dry goods pasta"
+  },
+  {
+    "id": "35396a21-ee5b-4169-b643-ffe9b1511d0c",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "grains rice dried goods",
+    "outV": "dry goods pasta"
+  },
+  {
+    "id": "7fe5bcb4-251c-45a7-8240-45d1535fb80c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Gluten Free Quinoa Three Cheese & Mushroom Blend",
+    "outV": "dry goods pasta"
+  },
+  {
+    "id": "ad7ed961-c08d-4ef1-a7be-d4025e1ec816",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "dry pasta",
+    "outV": "dry goods pasta"
+  },
+  {
+    "id": "03bb60e4-1e94-4c58-8365-920ac1d1706c",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Organic Spaghetti Style Pasta",
+    "outV": "dry goods pasta"
+  },
+  {
+    "id": "8d26e7a8-f6a2-47c0-8037-de94d3a2894d",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "dog food care",
+    "outV": "Small & Medium Dental Dog Treats"
+  },
+  {
+    "id": "35c37d20-15c3-40b7-93d2-d0ee91ab78a4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "dog food care",
+    "outV": "pets"
+  },
+  {
+    "id": "270d2ba1-f169-4779-9a35-55aa4eb6514a",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Small & Medium Dental Dog Treats",
+    "outV": "pets"
+  },
+  {
+    "id": "d7745d94-0ce4-4608-98a3-7617cd30c62e",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cat food care",
+    "outV": "pets"
+  },
+  {
+    "id": "db563535-c404-4e4d-bb54-02877ff7dc3b",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fancy Feast Trout Feast Flaked Wet Cat Food",
+    "outV": "pets"
+  },
+  {
+    "id": "591a4fb1-6c27-4bf3-b26a-74eb78013bf1",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "dog food care",
+    "outV": "pets"
+  },
+  {
+    "id": "c027bda5-883d-4315-82a6-0bc2fe87fef6",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Small & Medium Dental Dog Treats",
+    "outV": "pets"
+  },
+  {
+    "id": "db3d76b2-d0d4-4bc2-b43e-99c55c35e3a4",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cat food care",
+    "outV": "pets"
+  },
+  {
+    "id": "7d335998-8abe-488d-8f5b-6f0000c3903e",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fancy Feast Trout Feast Flaked Wet Cat Food",
+    "outV": "pets"
+  },
+  {
+    "id": "ff60854c-c8ea-471c-ae72-677e9ff5cb01",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "oral hygiene",
+    "outV": "Fresh Breath Oral Rinse Mild Mint"
+  },
+  {
+    "id": "582fd0b7-40a7-475b-a76d-5f019496d34a",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "packaged poultry",
+    "outV": "Organic Turkey Burgers"
+  },
+  {
+    "id": "7ffe7030-0909-42de-8ad6-3fc354a0e65e",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "energy granola bars",
+    "outV": "Salted Caramel Lean Protein & Fiber Bar"
+  },
+  {
+    "id": "992148aa-37f0-4722-8b64-29150dad9148",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "body lotions soap",
+    "outV": "Complete Spring Water Foaming Antibacterial Hand Wash"
+  },
+  {
+    "id": "b4964079-268d-4b48-87c6-2b455fb553ab",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "canned jarred vegetables",
+    "outV": "Fresh Cut Golden Sweet No Salt Added Whole Kernel Corn"
+  },
+  {
+    "id": "f46bc0f5-b54a-4dc6-9200-afd91f70816a",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "canned jarred vegetables",
+    "outV": "canned goods"
+  },
+  {
+    "id": "528a81b5-638b-4da7-97ad-fdddcd4250c5",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Cut Golden Sweet No Salt Added Whole Kernel Corn",
+    "outV": "canned goods"
+  },
+  {
+    "id": "219ec5e1-258e-4227-b7ca-1e797d07073a",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "soup broth bouillon",
+    "outV": "canned goods"
+  },
+  {
+    "id": "51d587ac-6e8b-4e85-a511-5750cd656be9",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Noodle Soup Mix With Chicken Broth",
+    "outV": "canned goods"
+  },
+  {
+    "id": "9aaf83f9-b169-481b-8fc0-8e469500ca0d",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "canned jarred vegetables",
+    "outV": "canned goods"
+  },
+  {
+    "id": "53105ff4-cb0a-4990-8e5a-41418904272f",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Fresh Cut Golden Sweet No Salt Added Whole Kernel Corn",
+    "outV": "canned goods"
+  },
+  {
+    "id": "e62699ac-d2a4-4d99-b663-85307c654c87",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "soup broth bouillon",
+    "outV": "canned goods"
+  },
+  {
+    "id": "9f3862a5-396b-4876-9808-375827f2f562",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Noodle Soup Mix With Chicken Broth",
+    "outV": "canned goods"
+  },
+  {
+    "id": "1caef248-45a0-4083-a1af-9ba393f54a7d",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "packaged vegetables fruits",
+    "outV": "White Pearl Onions"
+  },
+  {
+    "id": "40fadab5-9648-4ad4-88ad-7e32e304c376",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "packaged vegetables fruits",
+    "outV": "produce"
+  },
+  {
+    "id": "ebf2f7cb-3d73-4140-87ae-a5115d01d4ab",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "White Pearl Onions",
+    "outV": "produce"
+  },
+  {
+    "id": "507bb902-f659-4498-a945-6ded2a2f70c7",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "fresh vegetables",
+    "outV": "produce"
+  },
+  {
+    "id": "298626eb-697d-4cd2-9717-be7b79949373",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "European Cucumber",
+    "outV": "produce"
+  },
+  {
+    "id": "2ff53bd3-1699-4b04-ab64-d27710cae183",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "packaged vegetables fruits",
+    "outV": "produce"
+  },
+  {
+    "id": "1b12aa4a-71b3-4d29-b757-50f2eca03464",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "White Pearl Onions",
+    "outV": "produce"
+  },
+  {
+    "id": "13aeea4e-17f7-4c4d-9b1d-8883387f8a32",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "fresh vegetables",
+    "outV": "produce"
+  },
+  {
+    "id": "8d211268-df57-41e4-97eb-be70f50777ee",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "European Cucumber",
+    "outV": "produce"
+  },
+  {
+    "id": "edb869e0-84cd-4809-8fae-aec35f4404e8",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "chips pretzels",
+    "outV": "Nacho Cheese White Bean Chips"
+  },
+  {
+    "id": "12a353e6-651e-49ab-8d49-99beb6f4877f",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "dry pasta",
+    "outV": "Organic Spaghetti Style Pasta"
+  },
+  {
+    "id": "ac35eebb-63d5-4695-a2fa-f000101b1750",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "cereal",
+    "outV": "Peanut Butter Cereal"
+  },
+  {
+    "id": "b8b21140-e3db-4964-9ab9-01100e0fcf70",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "cereal",
+    "outV": "breakfast"
+  },
+  {
+    "id": "1979d202-156e-4b65-af05-29a22de291a9",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Peanut Butter Cereal",
+    "outV": "breakfast"
+  },
+  {
+    "id": "59a9801a-8c22-4a82-b227-041e0fcdf31c",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "soup broth bouillon",
+    "outV": "Noodle Soup Mix With Chicken Broth"
+  },
+  {
+    "id": "bc56941e-9674-41f3-882e-8d2cdc46e874",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "energy sports drinks",
+    "outV": "Daily Tangerine Citrus Flavored Beverage"
+  },
+  {
+    "id": "e76f450b-cc69-4408-9d3f-b67168d6c049",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "hot dogs bacon sausage",
+    "outV": "Beef Hot Links Beef Smoked Sausage With Chile Peppers"
+  },
+  {
+    "id": "d56bd85e-e9c5-4cdf-b918-a79f316a6690",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "crackers",
+    "outV": "Organic Sourdough Einkorn Crackers Rosemary"
+  },
+  {
+    "id": "e2a6c8b8-f73f-40e6-8e55-ce3094ffe928",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "vitamins supplements",
+    "outV": "Biotin 1000 mcg"
+  },
+  {
+    "id": "dc57b4d0-1ca7-4416-91dc-dde0fec1fe53",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "fresh vegetables",
+    "outV": "European Cucumber"
+  },
+  {
+    "id": "4ca7857b-7224-4e44-b6a2-334c20ef6e48",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "frozen breads doughs",
+    "outV": "Raisin Cinnamon Bagels 5 count"
+  },
+  {
+    "id": "bff3c448-bcac-4d93-985c-d1cab46ca507",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "more household",
+    "outV": "School Glue, Washable, No Run"
+  },
+  {
+    "id": "d3caeaa5-dbb7-442e-80ad-e72b284b7a1b",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "tofu meat alternatives",
+    "outV": "Vegetarian Grain Meat Sausages Italian - 4 CT"
+  },
+  {
+    "id": "1e1571d6-4497-486a-b817-af52d318362c",
+    "label": "contains",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "department",
+    "inV": "tofu meat alternatives",
+    "outV": "deli"
+  },
+  {
+    "id": "0b6f53e1-7f32-429d-a1b7-7c07d78fda98",
+    "label": "has",
+    "type": "edge",
+    "inVLabel": "product",
+    "outVLabel": "department",
+    "inV": "Vegetarian Grain Meat Sausages Italian - 4 CT",
+    "outV": "deli"
+  },
+  {
+    "id": "003258a5-1098-4255-add9-1cefd0875ca8",
+    "label": "belongs to",
+    "type": "edge",
+    "inVLabel": "aisle",
+    "outVLabel": "product",
+    "inV": "doughs gelatins bake mixes",
+    "outV": "Pumpkin Muffin Mix"
+  }
+]

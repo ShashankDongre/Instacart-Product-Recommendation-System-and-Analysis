@@ -1,0 +1,538 @@
+[
+  {
+    "aisle_id": 1,
+    "aisle": "prepared soups salads"
+  },
+  {
+    "aisle_id": 2,
+    "aisle": "specialty cheeses"
+  },
+  {
+    "aisle_id": 3,
+    "aisle": "energy granola bars"
+  },
+  {
+    "aisle_id": 4,
+    "aisle": "instant foods"
+  },
+  {
+    "aisle_id": 5,
+    "aisle": "marinades meat preparation"
+  },
+  {
+    "aisle_id": 6,
+    "aisle": "other"
+  },
+  {
+    "aisle_id": 7,
+    "aisle": "packaged meat"
+  },
+  {
+    "aisle_id": 8,
+    "aisle": "bakery desserts"
+  },
+  {
+    "aisle_id": 9,
+    "aisle": "pasta sauce"
+  },
+  {
+    "aisle_id": 10,
+    "aisle": "kitchen supplies"
+  },
+  {
+    "aisle_id": 11,
+    "aisle": "cold flu allergy"
+  },
+  {
+    "aisle_id": 12,
+    "aisle": "fresh pasta"
+  },
+  {
+    "aisle_id": 13,
+    "aisle": "prepared meals"
+  },
+  {
+    "aisle_id": 14,
+    "aisle": "tofu meat alternatives"
+  },
+  {
+    "aisle_id": 15,
+    "aisle": "packaged seafood"
+  },
+  {
+    "aisle_id": 16,
+    "aisle": "fresh herbs"
+  },
+  {
+    "aisle_id": 17,
+    "aisle": "baking ingredients"
+  },
+  {
+    "aisle_id": 18,
+    "aisle": "bulk dried fruits vegetables"
+  },
+  {
+    "aisle_id": 19,
+    "aisle": "oils vinegars"
+  },
+  {
+    "aisle_id": 20,
+    "aisle": "oral hygiene"
+  },
+  {
+    "aisle_id": 21,
+    "aisle": "packaged cheese"
+  },
+  {
+    "aisle_id": 22,
+    "aisle": "hair care"
+  },
+  {
+    "aisle_id": 23,
+    "aisle": "popcorn jerky"
+  },
+  {
+    "aisle_id": 24,
+    "aisle": "fresh fruits"
+  },
+  {
+    "aisle_id": 25,
+    "aisle": "soap"
+  },
+  {
+    "aisle_id": 26,
+    "aisle": "coffee"
+  },
+  {
+    "aisle_id": 27,
+    "aisle": "beers coolers"
+  },
+  {
+    "aisle_id": 28,
+    "aisle": "red wines"
+  },
+  {
+    "aisle_id": 29,
+    "aisle": "honeys syrups nectars"
+  },
+  {
+    "aisle_id": 30,
+    "aisle": "latino foods"
+  },
+  {
+    "aisle_id": 31,
+    "aisle": "refrigerated"
+  },
+  {
+    "aisle_id": 32,
+    "aisle": "packaged produce"
+  },
+  {
+    "aisle_id": 33,
+    "aisle": "kosher foods"
+  },
+  {
+    "aisle_id": 34,
+    "aisle": "frozen meat seafood"
+  },
+  {
+    "aisle_id": 35,
+    "aisle": "poultry counter"
+  },
+  {
+    "aisle_id": 36,
+    "aisle": "butter"
+  },
+  {
+    "aisle_id": 37,
+    "aisle": "ice cream ice"
+  },
+  {
+    "aisle_id": 38,
+    "aisle": "frozen meals"
+  },
+  {
+    "aisle_id": 39,
+    "aisle": "seafood counter"
+  },
+  {
+    "aisle_id": 40,
+    "aisle": "dog food care"
+  },
+  {
+    "aisle_id": 41,
+    "aisle": "cat food care"
+  },
+  {
+    "aisle_id": 42,
+    "aisle": "frozen vegan vegetarian"
+  },
+  {
+    "aisle_id": 43,
+    "aisle": "buns rolls"
+  },
+  {
+    "aisle_id": 44,
+    "aisle": "eye ear care"
+  },
+  {
+    "aisle_id": 45,
+    "aisle": "candy chocolate"
+  },
+  {
+    "aisle_id": 46,
+    "aisle": "mint gum"
+  },
+  {
+    "aisle_id": 47,
+    "aisle": "vitamins supplements"
+  },
+  {
+    "aisle_id": 48,
+    "aisle": "breakfast bars pastries"
+  },
+  {
+    "aisle_id": 49,
+    "aisle": "packaged poultry"
+  },
+  {
+    "aisle_id": 50,
+    "aisle": "fruit vegetable snacks"
+  },
+  {
+    "aisle_id": 51,
+    "aisle": "preserved dips spreads"
+  },
+  {
+    "aisle_id": 52,
+    "aisle": "frozen breakfast"
+  },
+  {
+    "aisle_id": 53,
+    "aisle": "cream"
+  },
+  {
+    "aisle_id": 54,
+    "aisle": "paper goods"
+  },
+  {
+    "aisle_id": 55,
+    "aisle": "shave needs"
+  },
+  {
+    "aisle_id": 56,
+    "aisle": "diapers wipes"
+  },
+  {
+    "aisle_id": 57,
+    "aisle": "granola"
+  },
+  {
+    "aisle_id": 58,
+    "aisle": "frozen breads doughs"
+  },
+  {
+    "aisle_id": 59,
+    "aisle": "canned meals beans"
+  },
+  {
+    "aisle_id": 60,
+    "aisle": "trash bags liners"
+  },
+  {
+    "aisle_id": 61,
+    "aisle": "cookies cakes"
+  },
+  {
+    "aisle_id": 62,
+    "aisle": "white wines"
+  },
+  {
+    "aisle_id": 63,
+    "aisle": "grains rice dried goods"
+  },
+  {
+    "aisle_id": 64,
+    "aisle": "energy sports drinks"
+  },
+  {
+    "aisle_id": 65,
+    "aisle": "protein meal replacements"
+  },
+  {
+    "aisle_id": 66,
+    "aisle": "asian foods"
+  },
+  {
+    "aisle_id": 67,
+    "aisle": "fresh dips tapenades"
+  },
+  {
+    "aisle_id": 68,
+    "aisle": "bulk grains rice dried goods"
+  },
+  {
+    "aisle_id": 69,
+    "aisle": "soup broth bouillon"
+  },
+  {
+    "aisle_id": 70,
+    "aisle": "digestion"
+  },
+  {
+    "aisle_id": 71,
+    "aisle": "refrigerated pudding desserts"
+  },
+  {
+    "aisle_id": 72,
+    "aisle": "condiments"
+  },
+  {
+    "aisle_id": 73,
+    "aisle": "facial care"
+  },
+  {
+    "aisle_id": 74,
+    "aisle": "dish detergents"
+  },
+  {
+    "aisle_id": 75,
+    "aisle": "laundry"
+  },
+  {
+    "aisle_id": 76,
+    "aisle": "indian foods"
+  },
+  {
+    "aisle_id": 77,
+    "aisle": "soft drinks"
+  },
+  {
+    "aisle_id": 78,
+    "aisle": "crackers"
+  },
+  {
+    "aisle_id": 79,
+    "aisle": "frozen pizza"
+  },
+  {
+    "aisle_id": 80,
+    "aisle": "deodorants"
+  },
+  {
+    "aisle_id": 81,
+    "aisle": "canned jarred vegetables"
+  },
+  {
+    "aisle_id": 82,
+    "aisle": "baby accessories"
+  },
+  {
+    "aisle_id": 83,
+    "aisle": "fresh vegetables"
+  },
+  {
+    "aisle_id": 84,
+    "aisle": "milk"
+  },
+  {
+    "aisle_id": 85,
+    "aisle": "food storage"
+  },
+  {
+    "aisle_id": 86,
+    "aisle": "eggs"
+  },
+  {
+    "aisle_id": 87,
+    "aisle": "more household"
+  },
+  {
+    "aisle_id": 88,
+    "aisle": "spreads"
+  },
+  {
+    "aisle_id": 89,
+    "aisle": "salad dressing toppings"
+  },
+  {
+    "aisle_id": 90,
+    "aisle": "cocoa drink mixes"
+  },
+  {
+    "aisle_id": 91,
+    "aisle": "soy lactosefree"
+  },
+  {
+    "aisle_id": 92,
+    "aisle": "baby food formula"
+  },
+  {
+    "aisle_id": 93,
+    "aisle": "breakfast bakery"
+  },
+  {
+    "aisle_id": 94,
+    "aisle": "tea"
+  },
+  {
+    "aisle_id": 95,
+    "aisle": "canned meat seafood"
+  },
+  {
+    "aisle_id": 96,
+    "aisle": "lunch meat"
+  },
+  {
+    "aisle_id": 97,
+    "aisle": "baking supplies decor"
+  },
+  {
+    "aisle_id": 98,
+    "aisle": "juice nectars"
+  },
+  {
+    "aisle_id": 99,
+    "aisle": "canned fruit applesauce"
+  },
+  {
+    "aisle_id": 100,
+    "aisle": "missing"
+  },
+  {
+    "aisle_id": 101,
+    "aisle": "air fresheners candles"
+  },
+  {
+    "aisle_id": 102,
+    "aisle": "baby bath body care"
+  },
+  {
+    "aisle_id": 103,
+    "aisle": "ice cream toppings"
+  },
+  {
+    "aisle_id": 104,
+    "aisle": "spices seasonings"
+  },
+  {
+    "aisle_id": 105,
+    "aisle": "doughs gelatins bake mixes"
+  },
+  {
+    "aisle_id": 106,
+    "aisle": "hot dogs bacon sausage"
+  },
+  {
+    "aisle_id": 107,
+    "aisle": "chips pretzels"
+  },
+  {
+    "aisle_id": 108,
+    "aisle": "other creams cheeses"
+  },
+  {
+    "aisle_id": 109,
+    "aisle": "skin care"
+  },
+  {
+    "aisle_id": 110,
+    "aisle": "pickled goods olives"
+  },
+  {
+    "aisle_id": 111,
+    "aisle": "plates bowls cups flatware"
+  },
+  {
+    "aisle_id": 112,
+    "aisle": "bread"
+  },
+  {
+    "aisle_id": 113,
+    "aisle": "frozen juice"
+  },
+  {
+    "aisle_id": 114,
+    "aisle": "cleaning products"
+  },
+  {
+    "aisle_id": 115,
+    "aisle": "water seltzer sparkling water"
+  },
+  {
+    "aisle_id": 116,
+    "aisle": "frozen produce"
+  },
+  {
+    "aisle_id": 117,
+    "aisle": "nuts seeds dried fruit"
+  },
+  {
+    "aisle_id": 118,
+    "aisle": "first aid"
+  },
+  {
+    "aisle_id": 119,
+    "aisle": "frozen dessert"
+  },
+  {
+    "aisle_id": 120,
+    "aisle": "yogurt"
+  },
+  {
+    "aisle_id": 121,
+    "aisle": "cereal"
+  },
+  {
+    "aisle_id": 122,
+    "aisle": "meat counter"
+  },
+  {
+    "aisle_id": 123,
+    "aisle": "packaged vegetables fruits"
+  },
+  {
+    "aisle_id": 124,
+    "aisle": "spirits"
+  },
+  {
+    "aisle_id": 125,
+    "aisle": "trail mix snack mix"
+  },
+  {
+    "aisle_id": 126,
+    "aisle": "feminine care"
+  },
+  {
+    "aisle_id": 127,
+    "aisle": "body lotions soap"
+  },
+  {
+    "aisle_id": 128,
+    "aisle": "tortillas flat bread"
+  },
+  {
+    "aisle_id": 129,
+    "aisle": "frozen appetizers sides"
+  },
+  {
+    "aisle_id": 130,
+    "aisle": "hot cereal pancake mixes"
+  },
+  {
+    "aisle_id": 131,
+    "aisle": "dry pasta"
+  },
+  {
+    "aisle_id": 132,
+    "aisle": "beauty"
+  },
+  {
+    "aisle_id": 133,
+    "aisle": "muscles joints pain relief"
+  },
+  {
+    "aisle_id": 134,
+    "aisle": "specialty wines champagnes"
+  }
+]

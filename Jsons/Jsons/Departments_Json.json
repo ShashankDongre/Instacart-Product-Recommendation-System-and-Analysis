@@ -1,0 +1,86 @@
+[
+  {
+    "department_id": 1,
+    "department": "frozen"
+  },
+  {
+    "department_id": 2,
+    "department": "other"
+  },
+  {
+    "department_id": 3,
+    "department": "bakery"
+  },
+  {
+    "department_id": 4,
+    "department": "produce"
+  },
+  {
+    "department_id": 5,
+    "department": "alcohol"
+  },
+  {
+    "department_id": 6,
+    "department": "international"
+  },
+  {
+    "department_id": 7,
+    "department": "beverages"
+  },
+  {
+    "department_id": 8,
+    "department": "pets"
+  },
+  {
+    "department_id": 9,
+    "department": "dry goods pasta"
+  },
+  {
+    "department_id": 10,
+    "department": "bulk"
+  },
+  {
+    "department_id": 11,
+    "department": "personal care"
+  },
+  {
+    "department_id": 12,
+    "department": "meat seafood"
+  },
+  {
+    "department_id": 13,
+    "department": "pantry"
+  },
+  {
+    "department_id": 14,
+    "department": "breakfast"
+  },
+  {
+    "department_id": 15,
+    "department": "canned goods"
+  },
+  {
+    "department_id": 16,
+    "department": "dairy eggs"
+  },
+  {
+    "department_id": 17,
+    "department": "household"
+  },
+  {
+    "department_id": 18,
+    "department": "babies"
+  },
+  {
+    "department_id": 19,
+    "department": "snacks"
+  },
+  {
+    "department_id": 20,
+    "department": "deli"
+  },
+  {
+    "department_id": 21,
+    "department": "missing"
+  }
+]

@@ -1,0 +1,3108 @@
+[
+  {
+    "id": "Chocolate Sandwich Cookies",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "de33ffa2-315b-4181-a1b0-32cb2601c4af",
+          "value": "1"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "cd9bef02-d3ab-459a-89ba-4ef979b160a0",
+          "value": "Chocolate Sandwich Cookies"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Chocolate Sandwich Cookies|aisle_id",
+          "value": "61"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "89f0152a-df9a-4b71-9814-7b6543342506",
+          "value": "19"
+        }
+      ],
+      "pk": [
+        {
+          "id": "d3e8f2b1-b84c-44e2-ac63-47a0333ec707",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cookies cakes",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "cookies cakes|aisle_id",
+          "value": "61"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "4a7932bd-56cb-4b62-932d-9a3405245894",
+          "value": "cookies cakes"
+        }
+      ],
+      "pk": [
+        {
+          "id": "c86e0bbf-29e0-4025-8f1f-4475ea3daa46",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "snacks",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "72d2a187-10c3-43dc-b3a4-73fb11bef71b",
+          "value": "19"
+        }
+      ],
+      "department": [
+        {
+          "id": "a69b504c-8bb5-4f19-b1e3-8ee6ec65b3e0",
+          "value": "snacks"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "snacks|aisle_id",
+          "value": "61"
+        }
+      ],
+      "pk": [
+        {
+          "id": "2a537bbd-b1ed-4b94-9aa7-ea47971ce78f",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "All-Seasons Salt",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "8e16b132-b4ab-4da5-9e93-3734149ca40a",
+          "value": "2"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "cdc48cca-10e8-495c-8e53-0725204133b6",
+          "value": "All-Seasons Salt"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "All-Seasons Salt|aisle_id",
+          "value": "104"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "cfc067c9-a31f-49a0-b764-949ee755d0c0",
+          "value": "13"
+        }
+      ],
+      "pk": [
+        {
+          "id": "7cd978b1-3b47-4d50-878b-e999f1e1a6f9",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "spices seasonings",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "spices seasonings|aisle_id",
+          "value": "104"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "c9a9ddf7-51bb-43c7-8745-6ea6638c0bf4",
+          "value": "spices seasonings"
+        }
+      ],
+      "pk": [
+        {
+          "id": "095b2240-069e-4506-9b0f-4179803396e2",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "pantry",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "b62da788-095e-47a9-8546-0642d88d09df",
+          "value": "13"
+        }
+      ],
+      "department": [
+        {
+          "id": "9da53377-da65-4395-9d71-6fc22776214e",
+          "value": "pantry"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "pantry|aisle_id",
+          "value": 104
+        }
+      ],
+      "pk": [
+        {
+          "id": "35d75903-503e-4172-a6b2-53c2efda2875",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Robust Golden Unsweetened Oolong Tea",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "6e58dcda-7d4a-47e1-8bf7-ec0de43856a6",
+          "value": "3"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "c6e0e208-52be-4bf2-aeca-1ebb3442c830",
+          "value": "Robust Golden Unsweetened Oolong Tea"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Robust Golden Unsweetened Oolong Tea|aisle_id",
+          "value": "94"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "2e4702dc-90c3-407f-a8fe-c4025a12eb53",
+          "value": "7"
+        }
+      ],
+      "pk": [
+        {
+          "id": "88b6cf5c-7372-45a1-8b6d-c509fe4f566a",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tea",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "tea|aisle_id",
+          "value": "94"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "5f0d67ab-36e5-4691-8093-ff682128025b",
+          "value": "tea"
+        }
+      ],
+      "pk": [
+        {
+          "id": "ce91d30d-b87a-46d6-b620-d844eb62b69c",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "household",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "eef1b5e2-e7ea-4973-8693-a7d38849f2a2",
+          "value": "7"
+        }
+      ],
+      "department": [
+        {
+          "id": "105e1086-01d8-48de-8317-b3eaa9ca6e82",
+          "value": "household"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "household|aisle_id",
+          "value": "94"
+        }
+      ],
+      "pk": [
+        {
+          "id": "84efe1d3-235e-4038-824c-ef8401813f75",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "86677a19-6b25-40a6-9d2f-cd5f447491a6",
+          "value": "4"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "1c7b398f-24bb-46b4-a571-436e2e6817b4",
+          "value": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce|aisle_id",
+          "value": "38"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "c55f21f6-f5c6-42d2-8534-734ad7c27bd0",
+          "value": "1"
+        }
+      ],
+      "pk": [
+        {
+          "id": "fffc6b13-dcce-4918-b72f-1d6aa12d7fa6",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen meals",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "frozen meals|aisle_id",
+          "value": "38"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "520ff162-567e-4994-878c-526e546bd1c2",
+          "value": "frozen meals"
+        }
+      ],
+      "pk": [
+        {
+          "id": "aa54b57c-7f03-4291-ada5-f2152d54effd",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "ec44a589-d02e-4e48-b493-43ef995becb7",
+          "value": "1"
+        }
+      ],
+      "department": [
+        {
+          "id": "7bb6311a-b0ac-492d-bb1a-e3172d9d28a4",
+          "value": "frozen"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "frozen|aisle_id",
+          "value": "38"
+        }
+      ],
+      "pk": [
+        {
+          "id": "8e0fc623-0e4b-4c2c-96ff-368f019ba380",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Green Chile Anytime Sauce",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "f3bdbee0-dfa1-4330-93fa-2675ff76a83b",
+          "value": "5"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "804b28b6-9c44-41c4-8cf0-e7284fb58021",
+          "value": "Green Chile Anytime Sauce"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Green Chile Anytime Sauce|aisle_id",
+          "value": "5"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "52f5eb2e-b8ad-4e4a-ab72-6094bb6c8b7d",
+          "value": "13"
+        }
+      ],
+      "pk": [
+        {
+          "id": "6cdfcc7f-2e77-47ec-aa1d-83d815089561",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "marinades meat preparation",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "marinades meat preparation|aisle_id",
+          "value": "5"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "57e28896-1753-440f-abcc-309a1e906e7a",
+          "value": "marinades meat preparation"
+        }
+      ],
+      "pk": [
+        {
+          "id": "565da4c9-60ca-448c-ac07-a2f8f1e859d1",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "pantry",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "8e25a95c-7759-4094-9f40-b4ef64d5c290",
+          "value": "13"
+        }
+      ],
+      "department": [
+        {
+          "id": "96f6576e-0cba-46f5-9f29-9c9ea1a12b8c",
+          "value": "pantry"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "pantry|aisle_id",
+          "value": "5"
+        }
+      ],
+      "pk": [
+        {
+          "id": "dd87d456-5789-4519-a7ac-8fa92b2cd2fe",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Pure Coconut Water With Orange",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "b66e774c-ef92-42ea-a357-39265b453d2a",
+          "value": "7"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "adb12e19-9339-40ef-a4fa-399a227f21ff",
+          "value": "Pure Coconut Water With Orange"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Pure Coconut Water With Orange|aisle_id",
+          "value": "98"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "a85a92d4-4e41-42c3-a060-61af13dc8e89",
+          "value": "7"
+        }
+      ],
+      "pk": [
+        {
+          "id": "674320f4-3e1b-43bc-a778-9483bf40f5c7",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "juice nectars",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "juice nectars|aisle_id",
+          "value": "98"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "95014275-0a4c-4719-b73f-f07a5887eea6",
+          "value": "juice nectars"
+        }
+      ],
+      "pk": [
+        {
+          "id": "5e278f38-f865-459f-bacb-ecf3a5629932",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "beverages",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "b89ee8f5-473c-4e32-9c1f-f8b16e87ea07",
+          "value": "7"
+        }
+      ],
+      "department": [
+        {
+          "id": "8f290e67-16b6-4644-a7cb-2be9a3d09e2f",
+          "value": "beverages"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "beverages|aisle_id",
+          "value": "98"
+        }
+      ],
+      "pk": [
+        {
+          "id": "de9c5705-8c8c-4445-bb5f-0c40289b2b54",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Cut Russet Potatoes Steam N Mash",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "56810b00-08bf-4eb5-b95d-4553d31458f3",
+          "value": "8"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "ab39418d-3d96-414f-b698-c01d6dfb20b1",
+          "value": "Cut Russet Potatoes Steam N Mash"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Cut Russet Potatoes Steam N Mash|aisle_id",
+          "value": "116"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "f46f2ceb-d494-4f77-b697-c1bc36a0188b",
+          "value": "1"
+        }
+      ],
+      "pk": [
+        {
+          "id": "0e73febf-3ab8-460f-b14b-5f1021a99e92",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen produce",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "frozen produce|aisle_id",
+          "value": "116"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "e2b800e9-9a53-4ed5-a15e-79197ff1d461",
+          "value": "frozen produce"
+        }
+      ],
+      "pk": [
+        {
+          "id": "f3a606a2-81d7-4c81-b3a7-db77058adcd4",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "ecc817f3-649d-4e04-b048-793e5e2b1f33",
+          "value": "1"
+        }
+      ],
+      "department": [
+        {
+          "id": "8d924cf3-6c77-4b16-aa06-350f9718b2f0",
+          "value": "frozen"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "frozen|aisle_id",
+          "value": "116"
+        }
+      ],
+      "pk": [
+        {
+          "id": "1fcd95a2-30f6-4c03-a722-903126da2feb",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Light Strawberry Blueberry Yogurt",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "a4a6edf7-b7b2-4da0-a60e-afae6180cb18",
+          "value": "9"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "467d698d-8621-41ac-8b31-ca34bbee592b",
+          "value": "Light Strawberry Blueberry Yogurt"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Light Strawberry Blueberry Yogurt|aisle_id",
+          "value": "120"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "13db05a7-bd3c-42b6-aa9c-664c35ef6ab9",
+          "value": "16"
+        }
+      ],
+      "pk": [
+        {
+          "id": "2b28a844-ded8-4d4e-8cc6-a33158b12dd5",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yogurt",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "yogurt|aisle_id",
+          "value": "120"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "96c745d0-08b5-402f-9077-133c59104725",
+          "value": "yogurt"
+        }
+      ],
+      "pk": [
+        {
+          "id": "b2a826ce-8a53-494a-b08f-f97c77ac24d4",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dairy eggs",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "78e8538f-afc6-48ab-a7c8-f6c5741e85dc",
+          "value": "16"
+        }
+      ],
+      "department": [
+        {
+          "id": "7d5a45a5-9b5f-4eab-9138-5fce74812967",
+          "value": "dairy eggs"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "dairy eggs|aisle_id",
+          "value": "120"
+        }
+      ],
+      "pk": [
+        {
+          "id": "2a09fe7e-cc7d-4a85-8fda-e780c67cd781",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Sparkling Orange Juice & Prickly Pear Beverage",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "30b50853-727b-4149-a298-f93262808543",
+          "value": "10"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "c8016cf2-39bf-4f64-8ca8-8bdec47d9735",
+          "value": "Sparkling Orange Juice & Prickly Pear Beverage"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Sparkling Orange Juice & Prickly Pear Beverage|aisle_id",
+          "value": "115"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "55f78ea4-d6d4-4a6b-aee0-960455f347d7",
+          "value": "7"
+        }
+      ],
+      "pk": [
+        {
+          "id": "53d68451-9e43-45c7-9f74-1acf00cbd017",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "water seltzer sparkling water",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "water seltzer sparkling water|aisle_id",
+          "value": "115"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "2e9eff35-154f-401f-9069-b9bc7aa77036",
+          "value": "water seltzer sparkling water"
+        }
+      ],
+      "pk": [
+        {
+          "id": "9c4f6326-4066-4be8-bdd2-e938a6e93692",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "beverages",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "c60e2bad-8bc1-419a-a689-635e586dc3e2",
+          "value": "7"
+        }
+      ],
+      "department": [
+        {
+          "id": "9f5468b9-b0a0-4cb3-9df6-cbd81eec4e02",
+          "value": "beverages"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "beverages|aisle_id",
+          "value": "120"
+        }
+      ],
+      "pk": [
+        {
+          "id": "19a8af4f-564d-4f52-abf6-fb334f93111a",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Peach Mango Juice",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "4da7c4f1-3740-47b9-af4c-33faa90dda4c",
+          "value": "11"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "6fea9557-4aac-4069-953b-94165ae71457",
+          "value": "Peach Mango Juice"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Peach Mango Juice|aisle_id",
+          "value": "31"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "11936942-0424-4aae-b2c9-8c12474bbbef",
+          "value": "7"
+        }
+      ],
+      "pk": [
+        {
+          "id": "191d63ba-b241-48ff-8e95-da5748bcb07f",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "refrigerated",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "refrigerated|aisle_id",
+          "value": "31"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "0faf4d3b-e3a6-425f-b092-d97edeca19d5",
+          "value": "refrigerated"
+        }
+      ],
+      "pk": [
+        {
+          "id": "5fa7e95b-2587-414a-a5be-231b3a269a45",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "beverages",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "785fffed-c317-47a3-ab5b-87e0e7df0bfd",
+          "value": "7"
+        }
+      ],
+      "department": [
+        {
+          "id": "230b88b7-87c6-400d-88a3-0be1d0741352",
+          "value": "beverages"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "beverages|aisle_id",
+          "value": "31"
+        }
+      ],
+      "pk": [
+        {
+          "id": "efbd5bca-cab4-4aac-a453-ff470494ecc5",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Chocolate Fudge Layer Cake",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "22e18e5c-7f43-4598-a5af-1028cf554abe",
+          "value": "12"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "5b95462e-c7da-4f55-8576-0641fd4c932d",
+          "value": "Chocolate Fudge Layer Cake"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Chocolate Fudge Layer Cake|aisle_id",
+          "value": 119
+        }
+      ],
+      "department_id": [
+        {
+          "id": "1561f369-df18-47d8-85a1-56644fad02b5",
+          "value": 1
+        }
+      ],
+      "pk": [
+        {
+          "id": "af768bd6-0aa4-44f5-9a16-7ba5c925e7f0",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen dessert",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "frozen dessert|aisle_id",
+          "value": "119"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "c30c97d7-67ea-443c-9c86-1a8fedc3ae30",
+          "value": "frozen dessert"
+        }
+      ],
+      "pk": [
+        {
+          "id": "94520985-c79b-4cca-b10b-ba7e3e996f77",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "272ec8ea-2c03-499c-b000-9b495e5b20e7",
+          "value": "1"
+        }
+      ],
+      "department": [
+        {
+          "id": "2ef88d5c-8c5b-450f-a8ba-e458edfaef62",
+          "value": "frozen"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "frozen|aisle_id",
+          "value": "119"
+        }
+      ],
+      "pk": [
+        {
+          "id": "ce73de8a-1723-428f-bf93-58abed1cbc9e",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Saline Nasal Mist",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "fc35701d-2205-4e1e-94ec-580bc38140cb",
+          "value": "13"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "c243b3f1-f144-4ec2-b832-8d139df7da18",
+          "value": "Saline Nasal Mist"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Saline Nasal Mist|aisle_id",
+          "value": "11"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "9b144ab3-c97e-4f57-aa53-f009e3d24238",
+          "value": "11"
+        }
+      ],
+      "pk": [
+        {
+          "id": "a5233ac0-1bcf-4129-b6e9-5f2545bdbddf",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cold flu allergy",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "cold flu allergy|aisle_id",
+          "value": "11"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "8e13e7bf-cd04-4a2d-b8cc-30bfe1b50956",
+          "value": "cold flu allergy"
+        }
+      ],
+      "pk": [
+        {
+          "id": "be3da1f3-358c-4097-af70-f91d035fc05d",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "personal care",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "5df5d5e4-0162-4537-b326-b57cf3abf222",
+          "value": "11"
+        }
+      ],
+      "department": [
+        {
+          "id": "f92d31a2-96f6-426f-977c-a2bffab49b2c",
+          "value": "personal care"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "personal care|aisle_id",
+          "value": "11"
+        }
+      ],
+      "pk": [
+        {
+          "id": "59374bca-9f51-41b1-9d8e-ee845744e9e5",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Fresh Scent Dishwasher Cleaner",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "2bc2cefc-edc2-4907-b3c1-f5bbb1325fc4",
+          "value": "14"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "402b7252-8dc9-473d-bf45-60ee9121199e",
+          "value": "Fresh Scent Dishwasher Cleaner"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Fresh Scent Dishwasher Cleaner|aisle_id",
+          "value": "74"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "aaaff5d3-21e2-4031-aa51-d57d8f9b2d8c",
+          "value": "17"
+        }
+      ],
+      "pk": [
+        {
+          "id": "01b8a196-c1fe-4f40-8bc9-6d1e5b1cb1fd",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dish detergents",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "dish detergents|aisle_id",
+          "value": "74"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "88e1e129-f6dd-42ba-8b76-7ccbff300bbd",
+          "value": "dish detergents"
+        }
+      ],
+      "pk": [
+        {
+          "id": "187f4896-dd2c-4a49-946d-ebb0a1de1610",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "household",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "b0df9372-3c1b-4b31-99df-9ed3953ec727",
+          "value": "17"
+        }
+      ],
+      "department": [
+        {
+          "id": "33799629-896e-4777-bc1a-b80077af42af",
+          "value": "household"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "household|aisle_id",
+          "value": "74"
+        }
+      ],
+      "pk": [
+        {
+          "id": "037a3a6e-99ec-4cec-8b47-d94d27e03b23",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Overnight Diapers Size 6",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "9b275e68-239d-446d-a448-05e4c208de15",
+          "value": "15"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "9acd99b0-1db3-4f0a-a544-efff16c46dbf",
+          "value": "Saline Nasal Mist"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Overnight Diapers Size 6|aisle_id",
+          "value": "56"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "53f4101c-5763-4d13-b075-5b7eda86695a",
+          "value": "18"
+        }
+      ],
+      "pk": [
+        {
+          "id": "b9aa2878-a55f-4b14-8c77-1fc05400c70e",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "diapers wipes",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "diapers wipes|aisle_id",
+          "value": "56"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "0f8378cb-10cc-4a4d-b575-29f7c0fb07cb",
+          "value": "diapers wipes"
+        }
+      ],
+      "pk": [
+        {
+          "id": "a49f5ee5-e593-4d4a-b127-04e5e58f951e",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "babies",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "158c1747-e302-4bf7-8fa4-5d14574d9610",
+          "value": "18"
+        }
+      ],
+      "department": [
+        {
+          "id": "07883c0c-f483-4e71-940e-bceefcad3eb6",
+          "value": "babies"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "babies|aisle_id",
+          "value": "56"
+        }
+      ],
+      "pk": [
+        {
+          "id": "41c8cdbb-b789-4d95-8650-a579d06861d0",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Mint Chocolate Flavored Syrup",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "5a2001ec-a220-4654-928b-5507a37b8727",
+          "value": "16"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "b4380369-f4d3-49b6-b3fc-e069310c32cc",
+          "value": "Mint Chocolate Flavored Syrup"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Mint Chocolate Flavored Syrup|aisle_id",
+          "value": "103"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "d33444ab-b114-4fb2-a7d1-135dc74037ae",
+          "value": "19"
+        }
+      ],
+      "pk": [
+        {
+          "id": "4598748f-bf0a-4b43-be39-52af45d7b4de",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ice cream toppings",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "ice cream toppings|aisle_id",
+          "value": "103"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "7ecb31d0-31df-4274-9f22-82ae3a7b9b96",
+          "value": "ice cream toppings"
+        }
+      ],
+      "pk": [
+        {
+          "id": "5ce7e735-9b2f-4841-ac74-7f54157c1376",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "snacks",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "20ff2bb0-c09d-43a6-9ba7-d6779ae35d18",
+          "value": "19"
+        }
+      ],
+      "department": [
+        {
+          "id": "9dbf2768-9b2a-47e1-9528-0e6b718f8dcc",
+          "value": "snacks"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "snacks|aisle_id",
+          "value": "103"
+        }
+      ],
+      "pk": [
+        {
+          "id": "27669a9b-8fd8-4311-a139-3c4b10b0e49b",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Rendered Duck Fat",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "bd497ebb-1e2b-4908-8eee-739c6c418c4d",
+          "value": "17"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "270029f4-554d-48b2-9656-ea38f5380707",
+          "value": "Rendered Duck Fat"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Rendered Duck Fat|aisle_id",
+          "value": "35"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "fee569d5-5cc7-4112-8d9e-9001dc2384e8",
+          "value": "12"
+        }
+      ],
+      "pk": [
+        {
+          "id": "1a31face-6018-478c-943e-5ccd125ab308",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "poultry counter",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "poultry counter|aisle_id",
+          "value": "35"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "38ca385b-b54f-40de-8b40-0fbf4831d8d6",
+          "value": "poultry counter"
+        }
+      ],
+      "pk": [
+        {
+          "id": "d077a14b-aaf3-4733-ba52-971099a06f57",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meat seafood",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "58ecb5f8-4e80-403f-8629-6b7af4a3d42d",
+          "value": "12"
+        }
+      ],
+      "department": [
+        {
+          "id": "16b7fb23-c575-4df0-b400-570de0d081e7",
+          "value": "meat seafood"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "meat seafood|aisle_id",
+          "value": "35"
+        }
+      ],
+      "pk": [
+        {
+          "id": "fe0e1114-674f-47e2-ae90-a4647d417091",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Pizza for One Suprema  Frozen Pizza",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "872c0c84-fa81-4d93-86df-5fa3f812df16",
+          "value": "18"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "852685e6-9e43-460a-ab34-8f610ef743db",
+          "value": "Pizza for One Suprema  Frozen Pizza"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Pizza for One Suprema  Frozen Pizza|aisle_id",
+          "value": "79"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "e32a4840-c2f0-450d-8e9e-a02f6c45c785",
+          "value": "1"
+        }
+      ],
+      "pk": [
+        {
+          "id": "9b223aa6-3a1c-4bba-ad70-15be7f499104",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen pizza",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "frozen pizza|aisle_id",
+          "value": "79"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "07cb4abe-5d5c-4dfc-a12d-32ee365c574e",
+          "value": "frozen pizza"
+        }
+      ],
+      "pk": [
+        {
+          "id": "61eb1666-8edc-4840-993a-2a0f167b1d4c",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "4f358d70-7a68-496d-a320-b5b49a6ef21d",
+          "value": "1"
+        }
+      ],
+      "department": [
+        {
+          "id": "18ed8be1-0183-42cc-9690-92bc2c5004f1",
+          "value": "frozen"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "frozen|aisle_id",
+          "value": "79"
+        }
+      ],
+      "pk": [
+        {
+          "id": "d6c4560e-7e8a-4825-9a48-6fa9385f8e86",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Gluten Free Quinoa Three Cheese & Mushroom Blend",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "2e00dfc8-6af2-4d75-8ecb-d817c726ba5c",
+          "value": "19"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "03f73214-7d34-47f3-b092-fd88c8e63594",
+          "value": "Gluten Free Quinoa Three Cheese & Mushroom Blend"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Gluten Free Quinoa Three Cheese & Mushroom Blend|aisle_id",
+          "value": "63"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "ba57acc5-c3ac-479b-b3ed-2c69071edc86",
+          "value": "9"
+        }
+      ],
+      "pk": [
+        {
+          "id": "5956f9b1-c34a-49f8-b1f2-df2330754c47",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "grains rice dried goods",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "grains rice dried goods|aisle_id",
+          "value": "63"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "a0d4d91e-2c6d-4001-8985-5965fb6196a4",
+          "value": "grains rice dried goods"
+        }
+      ],
+      "pk": [
+        {
+          "id": "27ee6fc2-36d5-45a3-8673-b74aa1ad2a24",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dry goods pasta",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "9c06eb6a-a520-4e6c-84e1-ea9f2fded442",
+          "value": "9"
+        }
+      ],
+      "department": [
+        {
+          "id": "e8fde498-e25f-4d58-9957-63d2d7d992bb",
+          "value": "dry goods pasta"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "dry goods pasta|aisle_id",
+          "value": "63"
+        }
+      ],
+      "pk": [
+        {
+          "id": "4c8b49a6-5866-416b-9a50-435f779954a2",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Small & Medium Dental Dog Treats",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "100218c4-0082-4c60-b00a-ff0f037ce5d6",
+          "value": "21"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "48b9c417-d6cf-498c-a144-46576c2417d5",
+          "value": "Small & Medium Dental Dog Treats"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Small & Medium Dental Dog Treats|aisle_id",
+          "value": "40"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "44cdb7c1-8057-4fec-bf89-61274322eff2",
+          "value": "11"
+        }
+      ],
+      "pk": [
+        {
+          "id": "2ce74b96-3853-4a4e-92d1-16d8e36d81fd",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dog food care",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "dog food care|aisle_id",
+          "value": "40"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "8af96b85-01f8-4518-a83d-0b1b4590d34d",
+          "value": "dog food care"
+        }
+      ],
+      "pk": [
+        {
+          "id": "844d419f-a686-4243-89a4-d94926341868",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "pets",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "021ddb2e-042a-49dd-8c9b-495b89f21fc6",
+          "value": "8"
+        }
+      ],
+      "department": [
+        {
+          "id": "a23e39c0-f11c-4a7e-8d35-c7ecb2f96309",
+          "value": "pets"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "pets|aisle_id",
+          "value": "40"
+        }
+      ],
+      "pk": [
+        {
+          "id": "792c90e7-3846-4ded-89ec-2344addea7cd",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Fresh Breath Oral Rinse Mild Mint",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "24561ff6-cb3a-420e-8368-8ba256c7b4f6",
+          "value": "22"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "2d23d38c-41be-4998-b9fd-b2663f63c070",
+          "value": "Fresh Breath Oral Rinse Mild Mint"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Fresh Breath Oral Rinse Mild Mint|aisle_id",
+          "value": "20"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "3087f9b2-9a58-48ca-b91b-f3ec91ce47f9",
+          "value": "11"
+        }
+      ],
+      "pk": [
+        {
+          "id": "abc2f42b-29d6-4827-ba82-a66622e9ea09",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "oral hygiene",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "oral hygiene|aisle_id",
+          "value": "20"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "c71c7c96-da37-46ce-84ff-68c64e673336",
+          "value": "oral hygiene"
+        }
+      ],
+      "pk": [
+        {
+          "id": "1e19aa97-4a2a-4c1d-8fb5-7bd790991a95",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "personal care",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "5fa494bc-d576-414d-83b2-deb5edfdb501",
+          "value": "11"
+        }
+      ],
+      "department": [
+        {
+          "id": "25f093a7-6acd-42f3-9a07-e3f6bd0e20fe",
+          "value": "personal care"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "personal care|aisle_id",
+          "value": "20"
+        }
+      ],
+      "pk": [
+        {
+          "id": "dc37aa73-8ecc-4043-b8bb-4684c8a64209",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Organic Turkey Burgers",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "9a691f13-73af-4faa-90e3-b584b77a8374",
+          "value": "23"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "97b824ed-409d-4550-bb8c-8dae37f7fbb8",
+          "value": "Organic Turkey Burgers"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Organic Turkey Burgers|aisle_id",
+          "value": "49"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "c3444e23-ae69-490a-a3cf-e14896380d63",
+          "value": "12"
+        }
+      ],
+      "pk": [
+        {
+          "id": "a4a129b1-9c3b-4875-80a5-8a8959140ee2",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "packaged poultry",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "packaged poultry|aisle_id",
+          "value": "49"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "f7165c3d-1300-411e-9cd0-0e53bd74a3af",
+          "value": "packaged poultry"
+        }
+      ],
+      "pk": [
+        {
+          "id": "f2a5fee6-0888-4f7b-846e-5ba1daa3cb86",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meat seafood",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "b1714914-be3b-4728-8fe6-64c8ed95eb69",
+          "value": "12"
+        }
+      ],
+      "department": [
+        {
+          "id": "8279b673-7737-467a-8058-e824c6746659",
+          "value": "meat seafood"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "meat seafood|aisle_id",
+          "value": "49"
+        }
+      ],
+      "pk": [
+        {
+          "id": "d526a898-71c4-4bfd-8518-8fd0a62dc431",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Salted Caramel Lean Protein & Fiber Bar",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "1ccb8a84-f8a7-49d6-88bd-29b9c866592c",
+          "value": "25"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "ad50defa-0e15-4d98-a1e4-948637f9a15b",
+          "value": "Salted Caramel Lean Protein & Fiber Bar"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Salted Caramel Lean Protein & Fiber Bar|aisle_id",
+          "value": "3"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "e3ad8cd1-c0fe-4be1-a943-b6cd1cc9d270",
+          "value": "19"
+        }
+      ],
+      "pk": [
+        {
+          "id": "eb34b0d5-1c85-4da2-af29-59bd76adc1aa",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "energy granola bars",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "energy granola bars|aisle_id",
+          "value": "3"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "1d4b0e4c-8ffb-46ac-8228-fb7ad8894ec4",
+          "value": "energy granola bars"
+        }
+      ],
+      "pk": [
+        {
+          "id": "b0c423f3-1d1a-425b-bf57-be2e72cec91a",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "snacks",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "4705ef2d-094d-4377-b222-7510cfe592c1",
+          "value": "19"
+        }
+      ],
+      "department": [
+        {
+          "id": "ebfa6773-6922-4429-8a5c-51f52eca13c4",
+          "value": "snacks"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "snacks|aisle_id",
+          "value": "3"
+        }
+      ],
+      "pk": [
+        {
+          "id": "31cc9180-975d-4c04-b0be-6adad974864c",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Fancy Feast Trout Feast Flaked Wet Cat Food",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "fac23743-0cf0-477e-bd6f-d1d8db45cd01",
+          "value": "26"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "1735523f-a91a-4281-b8c3-eaef4601950b",
+          "value": "Fancy Feast Trout Feast Flaked Wet Cat Food"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Fancy Feast Trout Feast Flaked Wet Cat Food|aisle_id",
+          "value": "127"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "3beccd98-19d0-4e5c-8e50-fbeb68a63fa8",
+          "value": "11"
+        }
+      ],
+      "pk": [
+        {
+          "id": "0e756d40-4cac-4864-ac25-da1b145b5f52",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cat food care",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "cat food care|aisle_id",
+          "value": "127"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "8367b26a-f749-4dc7-bc15-e5d33abe7b32",
+          "value": "cat food care"
+        }
+      ],
+      "pk": [
+        {
+          "id": "31be1d6f-4cd7-43eb-8980-f9b48ee56643",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "pets",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "a808ae46-b8ad-48a8-abff-a7fb820ec988",
+          "value": "11"
+        }
+      ],
+      "department": [
+        {
+          "id": "b79132fd-adbd-4d42-b500-359f36bc83fb",
+          "value": "pets"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "pets|aisle_id",
+          "value": "127"
+        }
+      ],
+      "pk": [
+        {
+          "id": "0c924abc-d28f-4615-93f1-f7c4cc5abb92",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Complete Spring Water Foaming Antibacterial Hand Wash",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "5713e7dc-88f0-4c04-ab9f-0485f037dc0b",
+          "value": "27"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "7f24f3b3-0245-4058-a65c-9d7a68eb73c1",
+          "value": "Complete Spring Water Foaming Antibacterial Hand Wash"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Complete Spring Water Foaming Antibacterial Hand Wash|aisle_id",
+          "value": "127"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "4b95d265-6527-453b-8af9-118136a380b8",
+          "value": "11"
+        }
+      ],
+      "pk": [
+        {
+          "id": "51cade07-7ec8-458f-bb45-ffe2770a6811",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "body lotions soap",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "body lotions soap|aisle_id",
+          "value": "127"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "d1a76c0c-2ed8-4c7e-a79c-b7972a4998a4",
+          "value": "body lotions soap"
+        }
+      ],
+      "pk": [
+        {
+          "id": "afcd051c-8444-41f1-96be-e2f35ce44fb0",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "personal care",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "5e914e64-a94f-4180-bc4b-782cb5b87121",
+          "value": "11"
+        }
+      ],
+      "department": [
+        {
+          "id": "34e5e783-83c9-4287-bb54-d4c71ec9fda2",
+          "value": "personal care"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "personal care|aisle_id",
+          "value": "127"
+        }
+      ],
+      "pk": [
+        {
+          "id": "64c55be6-0f27-4d03-a15a-c1a9e114d301",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Fresh Cut Golden Sweet No Salt Added Whole Kernel Corn",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "0fd21ea0-52f7-4303-9625-969bbe9f45e4",
+          "value": "29"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "0b9dd1ee-ae5a-4dce-83ed-e59d076cf721",
+          "value": "Fresh Cut Golden Sweet No Salt Added Whole Kernel Corn"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Fresh Cut Golden Sweet No Salt Added Whole Kernel Corn|aisle_id",
+          "value": "81"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "54e0987b-ef5e-48dd-af3d-583bc47bbf43",
+          "value": "15"
+        }
+      ],
+      "pk": [
+        {
+          "id": "f9f7b6d2-a89c-402f-80cf-a92b3e9427e0",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "canned jarred vegetables",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "canned jarred vegetables|aisle_id",
+          "value": "81"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "5af373f9-04fc-418d-a638-e91f17c2bd55",
+          "value": "canned jarred vegetables"
+        }
+      ],
+      "pk": [
+        {
+          "id": "bba25e58-e241-48a0-b21d-cd2f324b36eb",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "canned goods",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "f93d12a7-b685-494c-b2cf-df0a38b3dfef",
+          "value": "15"
+        }
+      ],
+      "department": [
+        {
+          "id": "08fce623-1a20-4d4b-96fb-5a70eb7ceeb2",
+          "value": "canned goods"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "canned goods|aisle_id",
+          "value": "81"
+        }
+      ],
+      "pk": [
+        {
+          "id": "803fe4b4-dafd-417e-b609-9f0499da4938",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "White Pearl Onions",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "4235f235-24c7-44b1-9dfe-68b0974c3932",
+          "value": "31"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "77893a56-1bdc-4677-b807-880c12fd3cf6",
+          "value": "White Pearl Onions"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "White Pearl Onions|aisle_id",
+          "value": "123"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "747c89ae-1361-427c-b6ec-494091b40ae0",
+          "value": "4"
+        }
+      ],
+      "pk": [
+        {
+          "id": "1dbdc3cf-ed9b-46b8-9218-d2f46c0ccfbf",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "packaged vegetables fruits",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "packaged vegetables fruits|aisle_id",
+          "value": "123"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "e78c47b5-2658-4103-b508-d84f983040f9",
+          "value": "packaged vegetables fruits"
+        }
+      ],
+      "pk": [
+        {
+          "id": "77b13821-aced-4ea1-9105-ade2d8cf8789",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "produce",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "ff537bf7-cca4-42c1-98d5-57ac0c311e7c",
+          "value": "4"
+        }
+      ],
+      "department": [
+        {
+          "id": "058ade41-b6d3-4ff2-b043-f67ea270a4cf",
+          "value": "produce"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "produce|aisle_id",
+          "value": "123"
+        }
+      ],
+      "pk": [
+        {
+          "id": "4eb2538a-d15b-4bd7-b991-529adf7300c0",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Nacho Cheese White Bean Chips",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "b5125a83-4db3-4d4b-b41b-d7c60cdcfa1a",
+          "value": "32"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "4b2093c4-df13-4362-b7e2-7a0c6cd9a98c",
+          "value": "Nacho Cheese White Bean Chips"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Nacho Cheese White Bean Chips|aisle_id",
+          "value": "107"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "a2d08999-5958-4178-b554-970b1cc28a17",
+          "value": "19"
+        }
+      ],
+      "pk": [
+        {
+          "id": "a8769155-ebc4-4ce1-9ab3-4e480b05993a",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chips pretzels",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "chips pretzels|aisle_id",
+          "value": "107"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "c2ad5af4-1d99-4791-a45a-002fbaf1956e",
+          "value": "chips pretzels"
+        }
+      ],
+      "pk": [
+        {
+          "id": "ef39def0-50b2-493b-be81-9acf94e3fac4",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "snacks",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "e71b7205-8b4e-4282-861a-c4be78bebefd",
+          "value": "19"
+        }
+      ],
+      "department": [
+        {
+          "id": "e5ae2549-23cb-4e2c-81fb-37f4c0183a90",
+          "value": "snacks"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "snacks|aisle_id",
+          "value": "107"
+        }
+      ],
+      "pk": [
+        {
+          "id": "834b96dc-8a21-4895-bdfb-bb97b63776fd",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Organic Spaghetti Style Pasta",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "5a42c1e4-a16d-4829-a530-8240f3ec65b9",
+          "value": "33"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "7462a1b6-b0c9-4729-9a5a-d6a9d20c2c9f",
+          "value": "Organic Spaghetti Style Pasta"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Organic Spaghetti Style Pasta|aisle_id",
+          "value": "131"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "d6c40393-9f05-40db-893c-0f4cdf3205e1",
+          "value": "9"
+        }
+      ],
+      "pk": [
+        {
+          "id": "4308653a-3e04-409d-8a22-a4eb591e9777",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dry pasta",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "dry pasta|aisle_id",
+          "value": "131"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "f25264bf-7ec8-4be0-8b57-7427b431b4f8",
+          "value": "dry pasta"
+        }
+      ],
+      "pk": [
+        {
+          "id": "5cbbb1db-d8fb-43f5-91e1-69283042d778",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dry goods pasta",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "49a1d1ca-1f95-47a7-b81c-c7d36eee96da",
+          "value": "9"
+        }
+      ],
+      "department": [
+        {
+          "id": "6b856ca1-f0cc-4264-896e-4d9c60e8afea",
+          "value": "dry goods pasta"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "dry goods pasta|aisle_id",
+          "value": "131"
+        }
+      ],
+      "pk": [
+        {
+          "id": "04acbdbe-4c42-4d56-86b9-212336bc8b51",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Peanut Butter Cereal",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "0e3702d7-83f1-4a9d-800f-07aa250aaaf0",
+          "value": "34"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "e751c32a-9935-4fdd-8861-854c08b4f216",
+          "value": "Peanut Butter Cereal"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Peanut Butter Cereal|aisle_id",
+          "value": "121"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "a3664d39-0216-4271-94ce-d9c94eba457b",
+          "value": "14"
+        }
+      ],
+      "pk": [
+        {
+          "id": "f40a8662-efcb-474a-b7ce-7a30d93bbc1d",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cereal",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "cereal|aisle_id",
+          "value": "121"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "09c31207-2c73-48b3-89b0-991fe14ca6c0",
+          "value": "cereal"
+        }
+      ],
+      "pk": [
+        {
+          "id": "c46d3da5-83a3-45e1-b780-58fde60eb3c6",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "breakfast",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "bb4dc7e2-7782-41d5-9540-428a7d0316b5",
+          "value": "14"
+        }
+      ],
+      "department": [
+        {
+          "id": "edf5ade3-a42d-452c-a159-e54b035d7d1d",
+          "value": "breakfast"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "breakfast|aisle_id",
+          "value": "121"
+        }
+      ],
+      "pk": [
+        {
+          "id": "4b9d65b7-65e3-4893-ab7f-906eb1fbb79f",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Noodle Soup Mix With Chicken Broth",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "d28131c0-4209-45e4-b16c-6540780aa117",
+          "value": "37"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "1f03c0e3-cfda-4e6f-b018-4a3ab5e4c906",
+          "value": "Noodle Soup Mix With Chicken Broth"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Noodle Soup Mix With Chicken Broth|aisle_id",
+          "value": "69"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "9ec4a7d0-3fc3-422e-95ac-7edc9fae9cc6",
+          "value": "15"
+        }
+      ],
+      "pk": [
+        {
+          "id": "6c3b2101-917f-4944-92d0-c0acbe25f30b",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "soup broth bouillon",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "soup broth bouillon|aisle_id",
+          "value": "69"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "95df8a15-986b-4cf2-a54c-8993d2f22ebc",
+          "value": "soup broth bouillon"
+        }
+      ],
+      "pk": [
+        {
+          "id": "d5426f9e-be28-4871-8578-5fbe0af57f6e",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "canned goods",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "6e8ae52e-fb18-4a9c-b1f7-1b67a1342e61",
+          "value": "15"
+        }
+      ],
+      "department": [
+        {
+          "id": "a6de4167-d7be-4bd9-bfeb-c2b29c660aa1",
+          "value": "canned goods"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "canned goods|aisle_id",
+          "value": "69"
+        }
+      ],
+      "pk": [
+        {
+          "id": "35b0e39c-2d40-42bd-93be-dcbf5b9b0915",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Daily Tangerine Citrus Flavored Beverage",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "4220e68f-2d2a-46aa-9e28-32f3abde4358",
+          "value": "39"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "dd912ffa-6e14-4f95-90f7-e93c7bc75e78",
+          "value": "Daily Tangerine Citrus Flavored Beverage"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Daily Tangerine Citrus Flavored Beverage|aisle_id",
+          "value": "64"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "29fcf5b5-ede2-4988-b597-eb536e5a878d",
+          "value": "7"
+        }
+      ],
+      "pk": [
+        {
+          "id": "55495d14-ab71-4051-8cdf-5ce16f4ffbfe",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "energy sports drinks",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "energy sports drinks|aisle_id",
+          "value": "64"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "058933cc-52d3-4348-bf45-26c369fcb0b1",
+          "value": "energy sports drinks"
+        }
+      ],
+      "pk": [
+        {
+          "id": "115263dd-d8ad-4071-851a-3187a7d36ba7",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "beverages",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "f777549c-08a4-4490-99f4-5d82c7c3c42c",
+          "value": "7"
+        }
+      ],
+      "department": [
+        {
+          "id": "3221d806-2402-4ff9-b1c7-e6ffca855c19",
+          "value": "beverages"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "beverages|aisle_id",
+          "value": "64"
+        }
+      ],
+      "pk": [
+        {
+          "id": "bd4375c6-d155-42e6-a422-2a21a4b29ea8",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Beef Hot Links Beef Smoked Sausage With Chile Peppers",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "51db8bd0-1f6e-459b-a3c2-d531f3675fdd",
+          "value": "40"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "7b4982e6-4166-44e3-9573-77f4cebbe531",
+          "value": "Beef Hot Links Beef Smoked Sausage With Chile Peppers"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Beef Hot Links Beef Smoked Sausage With Chile Peppers|aisle_id",
+          "value": "106"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "7c9fc116-2cd2-4e8c-ba4c-ca9b6459f093",
+          "value": "12"
+        }
+      ],
+      "pk": [
+        {
+          "id": "05355a7f-c140-46f8-a435-5146fa342265",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hot dogs bacon sausage",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "hot dogs bacon sausage|aisle_id",
+          "value": "106"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "421316df-fcb9-4f10-8c6b-d8ae441c56f9",
+          "value": "hot dogs bacon sausage"
+        }
+      ],
+      "pk": [
+        {
+          "id": "52554fe4-ede2-4c93-b97d-dbbe6421bb03",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meat seafood",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "a024b827-b88f-44e7-acc5-bc7420477745",
+          "value": "12"
+        }
+      ],
+      "department": [
+        {
+          "id": "d5e5651e-bfb6-44e7-a578-579e54b0bd83",
+          "value": "meat seafood"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "meat seafood|aisle_id",
+          "value": "106"
+        }
+      ],
+      "pk": [
+        {
+          "id": "9e6b7e00-33c5-4d9a-b54c-222a823b8df8",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Organic Sourdough Einkorn Crackers Rosemary",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "55bf010e-a0a9-4c6c-b8d8-dcabd64acd97",
+          "value": "41"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "99f44a02-70ef-4c1f-9a7f-599ca34888e2",
+          "value": "Organic Sourdough Einkorn Crackers Rosemary"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Organic Sourdough Einkorn Crackers Rosemary|aisle_id",
+          "value": "78"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "97f83627-4b34-4f2c-8f2d-197834aeaf4b",
+          "value": "19"
+        }
+      ],
+      "pk": [
+        {
+          "id": "384b7b84-401e-4b27-80dc-2c4901bc15c3",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crackers",
+    "label": "aisle",
+    "type": "vertex",
+    "properties": {
+      "aisle_id": [
+        {
+          "id": "crackers|aisle_id",
+          "value": "78"
+        }
+      ],
+      "aisle": [
+        {
+          "id": "4ed00cfd-b49e-4b80-a646-c9055ca1365d",
+          "value": "crackers"
+        }
+      ],
+      "pk": [
+        {
+          "id": "e5c8acbe-ec2f-4b97-b552-704aae12a0ec",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "snacks",
+    "label": "department",
+    "type": "vertex",
+    "properties": {
+      "department_id": [
+        {
+          "id": "1e9395bf-89e5-4b6a-9d8b-3d22658c4f96",
+          "value": "19"
+        }
+      ],
+      "department": [
+        {
+          "id": "7ed56adc-1c12-4958-9f1d-132885ff8d29",
+          "value": "snacks"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "snacks|aisle_id",
+          "value": "78"
+        }
+      ],
+      "pk": [
+        {
+          "id": "fe7c2821-3f5c-4c28-8ec6-456a6444e0ed",
+          "value": "pk"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Biotin 1000 mcg",
+    "label": "product",
+    "type": "vertex",
+    "properties": {
+      "product_id": [
+        {
+          "id": "1c06480f-62ce-4252-85f6-71ccabd7ff8c",
+          "value": "42"
+        }
+      ],
+      "product_name": [
+        {
+          "id": "d7dbf38a-fae4-46ef-8b01-4e5686b188e4",
+          "value": "Biotin 1000 mcg"
+        }
+      ],
+      "aisle_id": [
+        {
+          "id": "Biotin 1000 mcg|aisle_id",
+          "value": "47"
+        }
+      ],
+      "department_id": [
+        {
+          "id": "25bfd800-a833-4c1e-a52d-469a4f1187f9",
+          "value": "11"
+        }
+      ],
+      "pk": [
+        {
+          "id": "2d07371e-e7d5-4ceb-8df7-448e35d8c17f",
+          "value": "pk"
+        }
+      ]
+    }
+  }
+]
